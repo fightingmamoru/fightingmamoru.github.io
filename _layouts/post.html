@@ -19,6 +19,17 @@ layout: default
   <div class="post">
     {{ content }}
   </div>
+  
+  <!-- utteranc - blog comments -->
+  <div id="utteranc_blog-comments" style="margin-top:25px"></div>
+  <script src="https://utteranc.es/client.js"
+        repo="fightingmamoru/blog-comments"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+  </script>
+  
   {%- if site.plainwhite.disqus_shortname -%}
   <div id="disqus_thread" style="margin-top:25px"></div>
   <script>
