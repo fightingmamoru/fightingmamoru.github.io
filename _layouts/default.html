@@ -149,8 +149,8 @@
       <p class="about-footer {{condensed_class}}">&copy;
         {{ "now" | date: "%Y" }}</p>
       {%- if site.plainwhite.dark_mode -%}
-        {%- unless site.plainwhite.dark_mode_only -%}
-          <div !="about-footer {{condensed_class}}">
+
+          <div class="about-footer {{condensed_class}}">
             <p>Dark Mode
               <i class="icon-moon"></i>
               <label class="switch">
@@ -159,7 +159,7 @@
               </label>
             </p>
           </div>
-        {%- endunless -%}
+
       {%- endif -%}
       {% endcapture %}
       {{ footer }}
