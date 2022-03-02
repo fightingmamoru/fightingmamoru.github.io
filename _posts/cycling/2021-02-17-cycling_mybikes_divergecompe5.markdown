@@ -4,7 +4,7 @@ title:  "Specialized Diverge Comp E5 (2021) - Gloss Blush/Cast Blue Metallic/Chr
 date:   2021-02-17 20:39:00 +0900
 categories: Cycling MyBikes
 ---
-/![Specialized Diverge Comp E5 (2021) - Gloss Blush/Cast Blue Metallic/Chrome/Wild Ferns / 출처 : Specialized (https://www.specialized.com)](../../../../../assets/img/2021-02-17/divergecompe5_2021.png)
+![Specialized Diverge Comp E5 (2021) - Gloss Blush/Cast Blue Metallic/Chrome/Wild Ferns / 출처 : Specialized (https://www.specialized.com)](../assets/img/2021-02-17/divergecompe5_2021.png)
 
 ### # 나에게 맞는 자전거? MTB? 로드?
 
@@ -55,7 +55,7 @@ categories: Cycling MyBikes
 
 카카오톡으로 문의를 하고 시간이 조금 지나자 피드백이 왔습니다. 다이버지는 가격 상승이 없다는 것을 다시 한번 확인했습니다. 상담원이 혹시 찾는 정확한 모델과 색상 그리고 구매를 원하는 사이즈가 무엇이냐고 역으로 물어 왔습니다. 모델과 색상 그리고 사이즈를 알려줬고, 상담원의 피드백이 왔습니다. 대박! 재고가 있다는 겁니다. 한편으로는 "왜 매장에는 그 재고를 보내주지 않지?" 라는 생각이 들었지만 그런 생각을 뒤로 하고 상담원이 구매를 원하냐고 물었고, 구매의사가 있으면 담당자에게 연락해 재고를 이동하고 구매할 수 있게 스페셜라이즈드 공홈 온라인에 재고를 반영해 오픈해 주겠다고 하는군요. 친절하게 혹시 재고가 오픈되었을 때 스틸당할 수 있으니 새로고침을 통해 잘 대기하고 있다가 구매를 하라고 안내까지 해줍니다.
 
-![](../../../../../assets/img/2021-02-17/divergecompe5_2021_order.png)
+![](../assets/img/2021-02-17/divergecompe5_2021_order.png)
 
 잘 대기하고 있다가 두세 번의 새로고침 끝에 결제 완료! 예상보다 너무 빠르게 자전거를 출고받을 수 있게 되었습니다. 결제 후에 친절하게 안내가 와서 출고받을 매장을 지정을 했고 그곳에서 조립까지 진행해서 연락을 준다고 합니다. 미리 예약해둔 매장에 통화를 해서 공홈을 통해 구매가 가능해졌다고 알리고 지정 매장도 그곳으로 하기로 했습니다. 공홈에서 구매를 했기 때문에 예약을 위해 걸어 둔 예약금은 출고받는 날 돌려받기로 하구요.
 

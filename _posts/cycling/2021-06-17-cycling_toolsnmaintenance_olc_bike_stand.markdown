@@ -12,7 +12,7 @@ categories: Cycling Tools&Maintenance
 
 
 
-![OLC MARS-1 자전거 정비대 패킹](../../../../../assets/img/2021-06-17/01-olc_bike_stand_packing.jpg)
+![OLC MARS-1 자전거 정비대 패킹](../assets/img/2021-06-17/01-olc_bike_stand_packing.jpg)
 
 
 
@@ -20,7 +20,7 @@ categories: Cycling Tools&Maintenance
 
 
 
-![OLC MARS-1 자전거 정비대 구성품](../../../../../assets/img/2021-06-17/02-olc_bike_stand_package.jpg)
+![OLC MARS-1 자전거 정비대 구성품](../assets/img/2021-06-17/02-olc_bike_stand_package.jpg)
 
 
 
@@ -28,7 +28,7 @@ categories: Cycling Tools&Maintenance
 
 
 
-![OLC MARS-1 자전거 정비대 조립 완료](../../../../../assets/img/2021-06-17/03-olc_bike_stand_assembly.jpg)
+![OLC MARS-1 자전거 정비대 조립 완료](../assets/img/2021-06-17/03-olc_bike_stand_assembly.jpg)
 
 
 
@@ -36,7 +36,7 @@ categories: Cycling Tools&Maintenance
 
 
 
-![OLC MARS-1 자전거 정비대에 자전거 거치](../../../../../assets/img/2021-06-17/04-olc_bike_stand_using.jpg)
+![OLC MARS-1 자전거 정비대에 자전거 거치](../assets/img/2021-06-17/04-olc_bike_stand_using.jpg)
 
 
 
@@ -44,7 +44,7 @@ categories: Cycling Tools&Maintenance
 
 
 
-![사은품으로 증정 받은 OLC 자전거 양말과 바이크케어 테프론 체인 오일](../../../../../assets/img/2021-06-17/05-olc_added.jpg)
+![사은품으로 증정 받은 OLC 자전거 양말과 바이크케어 테프론 체인 오일](../assets/img/2021-06-17/05-olc_added.jpg)
 
 
 

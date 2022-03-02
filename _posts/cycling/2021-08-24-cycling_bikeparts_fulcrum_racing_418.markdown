@@ -12,7 +12,7 @@ categories: Cycling BikeParts
 
 
 
-![Fulcrum Racing 418 DB Wheel Set](../../../../../../assets/img/2021-08-24/00-fulcrum_wheel.jpg)
+![Fulcrum Racing 418 DB Wheel Set](../assets/img/2021-08-24/00-fulcrum_wheel.jpg)
 
 
 
@@ -20,9 +20,9 @@ categories: Cycling BikeParts
 
 
 
-![Pirelli P Zero Velo 4 Seasons Tire](../../../../../assets/img/2021-08-24/02-pirelli_pzero_4s.jpg)
+![Pirelli P Zero Velo 4 Seasons Tire](../assets/img/2021-08-24/02-pirelli_pzero_4s.jpg)
 
-![Shimano Ultegra 160mm Disc Rotor](../../../../../assets/img/2021-08-24/01-ultegra_rotor_160.jpg)
+![Shimano Ultegra 160mm Disc Rotor](../assets/img/2021-08-24/01-ultegra_rotor_160.jpg)
 
 
 
@@ -34,9 +34,9 @@ categories: Cycling BikeParts
 
 
 
-![휠셋 교체를 위해 자전거를 정비대에 거치](../../../../../assets/img/2021-08-24/04-bike_repairt_stand.jpg)
+![휠셋 교체를 위해 자전거를 정비대에 거치](../assets/img/2021-08-24/04-bike_repairt_stand.jpg)
 
-![교체를 위한 디스크 로터, 타이어, 튜브 준비완료](../../../../../assets/img/2021-08-24/05-chage_set.jpg)
+![교체를 위한 디스크 로터, 타이어, 튜브 준비완료](../assets/img/2021-08-24/05-chage_set.jpg)
 
 
 
@@ -44,9 +44,9 @@ categories: Cycling BikeParts
 
 
 
-![울테그라 디스크 로터에는 락링이 포함](../../../../../assets/img/2021-08-24/06-ultegra_rotor_detail.jpg)
+![울테그라 디스크 로터에는 락링이 포함](../assets/img/2021-08-24/06-ultegra_rotor_detail.jpg)
 
-![디스크 로터 설치 완료](../../../../../assets/img/2021-08-24/07-install_rotor.jpg)
+![디스크 로터 설치 완료](../assets/img/2021-08-24/07-install_rotor.jpg)
 
 
 
@@ -58,9 +58,9 @@ categories: Cycling BikeParts
 
 
 
-![타이어 설치 완료](../../../../../assets/img/2021-08-24/08-install_tire.jpg)
+![타이어 설치 완료](../assets/img/2021-08-24/08-install_tire.jpg)
 
-![스페셜라이즈드 튜브 재활용](../../../../../assets/img/2021-08-24/10-specialized_tube.jpg)
+![스페셜라이즈드 튜브 재활용](../assets/img/2021-08-24/10-specialized_tube.jpg)
 
 
 
@@ -68,9 +68,9 @@ categories: Cycling BikeParts
 
 
 
-![시마노 SLX 11-42T 카세트](../../../../../assets/img/2021-08-24/09-slx_cassette.jpg)
+![시마노 SLX 11-42T 카세트](../assets/img/2021-08-24/09-slx_cassette.jpg)
 
-![카세트 장착 작업 완료](../../../../../assets/img/2021-08-24/11-install_cassette.jpg)
+![카세트 장착 작업 완료](../assets/img/2021-08-24/11-install_cassette.jpg)
 
 
 
@@ -78,7 +78,7 @@ categories: Cycling BikeParts
 
 
 
-![휠셋 교체 작업 완료](../../../../../assets/img/2021-08-24/12-chagne_complete.jpg)
+![휠셋 교체 작업 완료](../assets/img/2021-08-24/12-chagne_complete.jpg)
 
 
 

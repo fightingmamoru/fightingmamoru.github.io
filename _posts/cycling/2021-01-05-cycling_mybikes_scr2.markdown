@@ -4,7 +4,7 @@ title:  "Giant SCR2 (2021) - Dusty Blue"
 date:   2021-01-05 19:05:00 +0900
 categories: Cycling MyBikes
 ---
-![Giant SCR2 (2021) - Dusty Blue](../../../../../assets/img/2021-01-05/01_scr2.jpg)
+![Giant SCR2 (2021) - Dusty Blue](../assets/img/2021-01-05/01_scr2.jpg)
 
 ### # 조금 더 날렵하게 달려보자!
 

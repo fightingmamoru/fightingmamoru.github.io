@@ -8,9 +8,9 @@ categories: Cycling BikeAccessories
 
 
 
-![OOBIK B Shark 패킹](../../../../../assets/img/2021-03-22/01-oobik_b_shark_packing.jpg)
+![OOBIK B Shark 패킹](../assets/img/2021-03-22/01-oobik_b_shark_packing.jpg)
 
-![OOBIK B Shark 스펙](../../../../../assets/img/2021-03-22/02-oobik_b_shark_spec.jpg)
+![OOBIK B Shark 스펙](../assets/img/2021-03-22/02-oobik_b_shark_spec.jpg)
 
 
 
@@ -18,9 +18,9 @@ categories: Cycling BikeAccessories
 
 
 
-![OOBIK B Shark 패키지 포장](../../../../../assets/img/2021-03-22/03-oobik_b_shark_package.jpg)
+![OOBIK B Shark 패키지 포장](../assets/img/2021-03-22/03-oobik_b_shark_package.jpg)
 
-![OOBIK B Shark 패키지 상세](../../../../../assets/img/2021-03-22/04-oobik_b_shark_package_02.jpg)
+![OOBIK B Shark 패키지 상세](../assets/img/2021-03-22/04-oobik_b_shark_package_02.jpg)
 
 
 
@@ -32,9 +32,9 @@ categories: Cycling BikeAccessories
 
 
 
-![설치 된 가민 케이던스 센서](../../../../../assets/img/2021-03-22/05-garmin_cadence_sensor.jpg)
+![설치 된 가민 케이던스 센서](../assets/img/2021-03-22/05-garmin_cadence_sensor.jpg)
 
-![설치 된 가민 스피드 센서](../../../../../assets/img/2021-03-22/06-garmin_speed_sensor.jpg)
+![설치 된 가민 스피드 센서](../assets/img/2021-03-22/06-garmin_speed_sensor.jpg)
 
 
 
@@ -42,7 +42,7 @@ categories: Cycling BikeAccessories
 
 
 
-![OOBIK B Shark와 가민 스피드/케이던스 센터 비교](../../../../../assets/img/2021-03-22/07-oobik_garmin_compare.jpg)
+![OOBIK B Shark와 가민 스피드/케이던스 센터 비교](../assets/img/2021-03-22/07-oobik_garmin_compare.jpg)
 
 
 
@@ -50,9 +50,9 @@ OOBIK B Shark 듀얼센서와 가민 스피드 센서, 케이던스 센서를 �
 
 
 
-![OOBIK B Shark 케이던스 용 자석](../../../../../assets/img/2021-03-22/08-oobik_b_shark_cadence.jpg)
+![OOBIK B Shark 케이던스 용 자석](../assets/img/2021-03-22/08-oobik_b_shark_cadence.jpg)
 
-![OOBIK B Shark 스피드 용 자석 (밸브)](../../../../../assets/img/2021-03-22/09-oobik_b_shark_speed.jpg)
+![OOBIK B Shark 스피드 용 자석 (밸브)](../assets/img/2021-03-22/09-oobik_b_shark_speed.jpg)
 
 
 
@@ -68,7 +68,7 @@ OOBIK B Shark 듀얼센서와 가민 스피드 센서, 케이던스 센서를 �
 
 
 
-![OOBIK B Shark 스피드 용 자석 (스포크)](../../../../../assets/img/2021-03-22/10-oobik_b_shark_speed_02.jpg)
+![OOBIK B Shark 스피드 용 자석 (스포크)](../assets/img/2021-03-22/10-oobik_b_shark_speed_02.jpg)
 
 
 
@@ -76,9 +76,9 @@ OOBIK B Shark 듀얼센서와 가민 스피드 센서, 케이던스 센서를 �
 
 
 
-![가민 130에서 인식 확인](../../../../../assets/img/2021-03-22/11-garmin_init.jpg)
+![가민 130에서 인식 확인](../assets/img/2021-03-22/11-garmin_init.jpg)
 
-![가민 130에서 테스트](../../../../../assets/img/2021-03-22/12-garmin_init_02.jpg)
+![가민 130에서 테스트](../assets/img/2021-03-22/12-garmin_init_02.jpg)
 
 
 
@@ -90,11 +90,11 @@ OOBIK B Shark 듀얼센서와 가민 스피드 센서, 케이던스 센서를 �
 
 
 
-![OOBIK B Shark 설치 후 테스트 라이딩 - 스트라바 기록](../../../../../assets/img/2021-03-22/13-oobik_test_strava.jpg)
+![OOBIK B Shark 설치 후 테스트 라이딩 - 스트라바 기록](../assets/img/2021-03-22/13-oobik_test_strava.jpg)
 
-![OOBIK B Shark 설치 후 테스트 라이딩 - 가민 커넥트 스피드 기록](../../../../../assets/img/2021-03-22/14-oobik_test_garmin_speed.jpg)
+![OOBIK B Shark 설치 후 테스트 라이딩 - 가민 커넥트 스피드 기록](../assets/img/2021-03-22/14-oobik_test_garmin_speed.jpg)
 
-![OOBIK B Shark 설치 후 테스트 라이딩 - 가민 커넥트 케이던스 기록](../../../../../assets/img/2021-03-22/15-oobik_test_garmin_cadence.jpg)
+![OOBIK B Shark 설치 후 테스트 라이딩 - 가민 커넥트 케이던스 기록](../assets/img/2021-03-22/15-oobik_test_garmin_cadence.jpg)
 
 
 

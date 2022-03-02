@@ -4,7 +4,7 @@ title:  "New Birdy GT 10SP - Red Matt Black"
 date:   2021-01-27 19:40:00 +0900
 categories: Cycling MyBikes
 ---
-![NEW BIRDY GT 10SP - Red Matt Black](../../../../../assets/img/2021-01-27/01-birdy.png)
+![NEW BIRDY GT 10SP - Red Matt Black](../assets/img/2021-01-27/01-birdy.png)
 
 ### # "차 트렁크에 접어서 넣으면서도 잘 달리는 미니벨로는 없을까?"
 
@@ -16,7 +16,7 @@ categories: Cycling MyBikes
 
 
 
-![NEW BIRDY GT 10SP - Red Matt Black (folding)](../../../../../assets/img/2021-01-27/02-birdy_folding.png)
+![NEW BIRDY GT 10SP - Red Matt Black (folding)](../assets/img/2021-01-27/02-birdy_folding.png)
 
 
 
@@ -37,7 +37,7 @@ categories: Cycling MyBikes
 
 
 
-![로드 자전거 박스에 포장되어 온 버디](../../../../../assets/img/2021-01-27/03-birdy_shipbox.jpg)
+![로드 자전거 박스에 포장되어 온 버디](../assets/img/2021-01-27/03-birdy_shipbox.jpg)
 
 
 
@@ -45,7 +45,7 @@ categories: Cycling MyBikes
 
 
 
-![검정/빨강의 조화는 항상 옳다!](../../../../../assets/img/2021-01-27/04-birdy_ship_complete.jpg)
+![검정/빨강의 조화는 항상 옳다!](../assets/img/2021-01-27/04-birdy_ship_complete.jpg)
 
 
 

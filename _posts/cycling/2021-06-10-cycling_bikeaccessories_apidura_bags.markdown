@@ -10,7 +10,7 @@ categories: Cycling BikeAccessories
 
 그러던 중 클리앙에서 아피듀라 볼트-온 탑 튜브 팩을 구입하신 분의 글과 사진을 보고 이거다(!) 라는 생각이 들었고, 국내 판매 사이트를 뒤졌지만 볼트-온 방식은 판매하고 있지 않았습니다. 밴드 방식으로 고정하는 제품이 있었지만 가격이 후덜덜 했죠. 그래서 결국 직구를 결심하고 구매 하였습니다. 배송비도 나오는데 기왕 사는김에 필요한 것을 찾아보자 해서 리어 탑 튜브 팩도 함께 구매 하였습니다.
 
-![아피듀라 배송 패킹](../../../../../assets/img/2021-06-10/01-apidura_packing.jpg)
+![아피듀라 배송 패킹](../assets/img/2021-06-10/01-apidura_packing.jpg)
 
 관세를 피하기 위해 제품을 하나 더 구매하려던 생각은 접었습니다. 무관세 범위 안으로 구매하는게 직구할 때 저의 원칙 입니다. 볼트-온 탑 튜브 팩 (1L) - 43.33 파운드 + 리어 탑 튜브 팩 (1L) - 45.00 파운드 + 배송비 - 12.00 파운드 = 합계 - 100.33 파운드. 달러로 환산하니 대략 140달러가 조금 넘어서 무관세 범위에 세이프 입니다. 영국에서 FedEx로 배송되어 4일만에 배송되었습니다. 확실히 독일쪽에서 DHL을 이용할때 걸리는 시간에 비하면 엄청 빠릅니다.
 
@@ -18,9 +18,9 @@ categories: Cycling BikeAccessories
 
 ### # APIDURA BOLT-ON TOP TUBE PACK (아피듀라 볼트-온 탑 튜브 팩)
 
-![포장 된 아피듀라 볼트-온 탑 튜브 팩](../../../../../assets/img/2021-06-10/02-apidura_bolton_packing.jpg)
+![포장 된 아피듀라 볼트-온 탑 튜브 팩](../assets/img/2021-06-10/02-apidura_bolton_packing.jpg)
 
-![아피듀라 볼트-온 탑 튜브 팩](../../../../../assets/img/2021-06-10/03-apidura_bolton_01.jpg)
+![아피듀라 볼트-온 탑 튜브 팩](../assets/img/2021-06-10/03-apidura_bolton_01.jpg)
 
 
 
@@ -28,7 +28,7 @@ categories: Cycling BikeAccessories
 
 
 
-![아피듀라 볼트-온 탑 튜브 팩 설치용 볼트](../../../../../assets/img/2021-06-10/04-apidura_bolton_02.jpg)
+![아피듀라 볼트-온 탑 튜브 팩 설치용 볼트](../assets/img/2021-06-10/04-apidura_bolton_02.jpg)
 
  
 
@@ -36,9 +36,9 @@ categories: Cycling BikeAccessories
 
 
 
-![기존에 사용하던 스페셜라이즈드 리모라 스토리지](../../../../../assets/img/2021-06-10/05-apecialized_remora_01.jpg)
+![기존에 사용하던 스페셜라이즈드 리모라 스토리지](../assets/img/2021-06-10/05-apecialized_remora_01.jpg)
 
-![새롭게 설치한 아피듀라 볼트-온 탑 튜브 팩](../../../../../assets/img/2021-06-10/06-apidura_bolton_install.jpg)
+![새롭게 설치한 아피듀라 볼트-온 탑 튜브 팩](../assets/img/2021-06-10/06-apidura_bolton_install.jpg)
 
 
 
@@ -52,7 +52,7 @@ categories: Cycling BikeAccessories
 
 ### # APIDURA REAR TOP TUBE PACK (아피듀라 리어 탑 튜브 팩)
 
-![포장 된 아피듀라 리어 탑 튜브 팩](../../../../../assets/img/2021-06-10/07-apidura_rear_packing.jpg)
+![포장 된 아피듀라 리어 탑 튜브 팩](../assets/img/2021-06-10/07-apidura_rear_packing.jpg)
 
 
 
@@ -60,9 +60,9 @@ categories: Cycling BikeAccessories
 
 
 
-![아피듀라 리어 탑 튜브 팩](../../../../../assets/img/2021-06-10/08-apidura_rear_01.jpg)
+![아피듀라 리어 탑 튜브 팩](../assets/img/2021-06-10/08-apidura_rear_01.jpg)
 
-![설치 된 아피듀라 리어 탑 튜브 팩](../../../../../assets/img/2021-06-10/09-apidura_rear_install.jpg)
+![설치 된 아피듀라 리어 탑 튜브 팩](../assets/img/2021-06-10/09-apidura_rear_install.jpg)
 
 
 
@@ -74,7 +74,7 @@ categories: Cycling BikeAccessories
 
 
 
-![두 제품을 모두 설치 완료](../../../../../assets/img/2021-06-10/10-apidura_all_install.jpg)
+![두 제품을 모두 설치 완료](../assets/img/2021-06-10/10-apidura_all_install.jpg)
 
 
 
