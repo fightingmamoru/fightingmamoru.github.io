@@ -172,12 +172,6 @@
     </footer>
   </main>
 
-  {% unless site.plainwhite.dark_mode_only %}
-  <script>
-    useOnlyDarkMode();
-  </script>
-  {% endunless %}
-
   {%- if site.plainwhite.analytics_id -%}
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
   <script>
@@ -191,6 +185,12 @@
   {% if site.plainwhite.search %}
   <script src="{{ "/assets/js/simple-jekyll-search.min.js" | relative_url }}"></script>
   <script src="{{ "/assets/js/search.js" | relative_url }}"></script>
+  {% endif %}
+  
+  {% if site.plainwhite.dark_mode_only %}
+  <script>
+    useOnlyDarkMode();
+  </script>
   {% endif %}
 </body>
 
