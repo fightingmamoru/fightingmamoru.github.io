@@ -1,11 +1,13 @@
 function useOnlyDarkMode()
 {
-	const DARK_CLASS = 'dark';
-	var body = document.querySelector("body");
+    const DARK_CLASS = 'dark';
+    var body = document.querySelector("body");
 
     if (!body.classList.contains(DARK_CLASS))
     {
         setCookie('theme', 'dark');
+        setCookie('onlyDark', 'true');
+
         body.classList.add(DARK_CLASS);
     }
 }
@@ -38,7 +40,9 @@ function deleteCookie(name) { setCookie(name, '', -1); }
 
 const userPrefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
 var theme = getCookie('theme');
-if ( (theme === null && userPrefersDark) || theme === 'dark') {
+var onlyDark = getCookie('onlyDark');
+
+if ( ((theme === null && userPrefersDark) || theme === 'dark') && (onlyDark !== 'true') ) {
     var checkDarkDone = false;
     function checkDark() {
         if (!checkDarkDone) {
