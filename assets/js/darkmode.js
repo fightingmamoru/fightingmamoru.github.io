@@ -1,11 +1,13 @@
 function useOnlyDarkMode()
 {
 	const DARK_CLASS = 'dark';
-	
 	var body = document.querySelector("body");
-	
-	setCookie('theme', 'dark');
-	body.classList.add(DARK_CLASS);
+
+    if (!body.classList.contains(DARK_CLASS))
+    {
+        setCookie('theme', 'dark');
+        body.classList.add(DARK_CLASS);
+    }
 }
 
 function toggleDarkMode() {

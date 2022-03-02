@@ -189,7 +189,9 @@
   
   {% if site.plainwhite.dark_mode_only %}
   <script>
-    useOnlyDarkMode();
+    (function () {
+      useOnlyDarkMode();
+    })();
   </script>
   {% endif %}
 </body>
