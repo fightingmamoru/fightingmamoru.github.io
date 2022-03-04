@@ -64,4 +64,33 @@ categories: Cycling MyBikes
 
 ### # Specification
 
-Updating...
+https://www.specialized.com/us/en/diverge-comp-e5/p/199685?color=320084-199685
+
+| **Specialized Diverge Comp E5 (2021)** |                                                                                                                                          |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| FRAME                                  | Specialized Diverge E5 Premium Aluminum, Future Shock suspension,<br/>threaded BB, internal routing, 12x142mm thru-axle, flat-mount disc |
+| FORK                                   | Future Shock 1.5 w/Smooth Boot, FACT carbon, 12x100 mm thru-axle, flat-mount                                                             |
+| SUSPENSION LEVER                       | \-                                                                                                                                       |
+| HEADSET                                | \-                                                                                                                                       |
+| STEM                                   | Future Stem, Comp                                                                                                                        |
+| HANDLEBAR                              | Specialized Adventure Gear Hover, 103mm drop x 70mm reach x 12º flare                                                                    |
+| GRIPS/TAPE                             | Specialized S-Wrap                                                                                                                       |
+| SADDLE                                 | Body Geometry Power Sport, steel rails                                                                                                   |
+| SEATPOST                               | Alloy, 2-bolt Clamp, 12mm offset, 27.2mm, anti-corrosion hardware                                                                        |
+| SEAT BINDER                            | \-                                                                                                                                       |
+| BRAKE                                  | Shimano GRX 400                                                                                                                          |
+| BRAKE LEVER                            | Shimano GRX 600 hydraulic brake levers                                                                                                   |
+| SHIFT LEVER                            | Shimano GRX 600 mechanical shifting                                                                                                      |
+| FRONT DERAILLEUR                       | \-                                                                                                                                       |
+| REAR DERAILLEUR                        | Shimano RX812 GX, Shadow Plus, 11-speed                                                                                                  |
+| CASSETTE                               | Shimano SLX, 11-speed, 11-42t                                                                                                            |
+| CRANKSET                               | Praxis Alba 40T                                                                                                                          |
+| BB                                     | Praxis 68mm BSA                                                                                                                          |
+| CHAIN                                  | KMC X11 Extra Lightweight, 11-speed                                                                                                      |
+| RIMS                                   | Axis Elite Disc                                                                                                                          |
+| HUB                                    | Axis Elite Disc                                                                                                                          |
+| SPOKES                                 | \-                                                                                                                                       |
+| TIRE                                   | Specialized Pathfinder Sport, 700x38c                                                                                                    |
+| PEDALS                                 | \-                                                                                                                                       |
+| DIMENSIONS                             | \-                                                                                                                                       |
+| WEIGHT                                 | 10.29kg                                                                                                                                  |

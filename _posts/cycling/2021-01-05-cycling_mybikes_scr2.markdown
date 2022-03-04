@@ -57,31 +57,31 @@ SCR2로 9회 총 250Km 정도를 라이딩 했습니다. 평페달을 이용해�
 
 ### # Specification
 
-| **Giant SCR2 (2021) - Dusty Blue** |  |
-| --- | --- |
-| FRAME | ALUXX-Grade Aluminum |
-| FORK | alloy, OverDrive steerer |
-| SUSPENSION LEVER | \- |
-| HEADSET | \- |
-| HANDLEBARS | alloy drop, 31.8 |
-| STEM | alloy, 31.8 |
-| GRIPS    | \- |
-| SADDLE | Selle Royal |
-| SEATPOST | Giant D-Fuse, alloy |
-| SEAT BINDER    | \- |
-| FRONT BRAKE | Tektro TK-B177, Shimano Claris Lever |
-| REAR BRAKE | Tektro TK-B177, Shimano Claris Lever |
-| SHIFT LEVERS | Shimano Claris |
-| FRONT DERAILLEUR | Shimano Claris |
-| REAR DERAILLEUR | Shimano Claris |
-| CASSETTE | Shimano CS-HG50, 11x28 |
-| CRANKSET | Pro-Wheel, 34/50 |
-| BOTTOM BRACKET | cartridge |
-| CHAIN | KMC Z72 |
-| RIMS | alloy |
-| FRONT HUB | sealed bearing |
-| REAR HUB | sealed bearing |
-| SPOKES    | stainless |
-| FRONT TIRE | Giant S-R4, front and rear specific, 700x25c |
-| REAR TIRE | Giant S-R4, front and rear specific, 700x25c |
-| PEDALS | \- |
+| **Giant SCR2 (2021) ** |                                              |
+|------------------------|----------------------------------------------|
+| FRAME                  | ALUXX-Grade Aluminum                         |
+| FORK                   | alloy, OverDrive steerer                     |
+| SUSPENSION LEVER       | \-                                           |
+| HEADSET                | Semi Intergrated 1-1/8"                      |
+| STEM                   | alloy, 31.8                                  |
+| HANDLEBAR              | alloy drop, 31.8                             |
+| GRIPS                  | \-                                           |
+| SADDLE                 | Selle Royal                                  |
+| SEATPOST               | Giant D-Fuse, alloy                          |
+| SEAT BINDER            | \-                                           |
+| BRAKE                  | Tektro TK-B177                               |
+| BRAKE LEVER            | Shimano Claris                               |
+| SHIFT LEVER            | Shimano Claris                               |
+| FRONT DERAILLEUR       | Shimano Claris                               |
+| REAR DERAILLEUR        | Shimano Claris                               |
+| CASSETTE               | Shimano CS-HG50, 11-28T                      |
+| CRANKSET               | Pro-Wheel, 34-50T                            |
+| BB                     | cartridge                                    |
+| CHAIN                  | KMC Z72                                      |
+| RIMS                   | alloy                                        |
+| HUB                    | sealed bearing                               |
+| SPOKES                 | stainless                                    |
+| TIRE                   | Giant S-R4, front and rear specific, 700x25c |
+| PEDALS                 | \-                                           |
+| DIMENSIONS             | \-                                           |
+| WEIGHT                 | 9.87kg                                       |
