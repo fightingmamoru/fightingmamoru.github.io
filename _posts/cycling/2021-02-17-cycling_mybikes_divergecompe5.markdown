@@ -64,8 +64,6 @@ categories: Cycling MyBikes
 
 ### # Specification
 
-https://www.specialized.com/us/en/diverge-comp-e5/p/199685?color=320084-199685
-
 | **Specialized Diverge Comp E5 (2021)** |                                                                                                                                          |
 |----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | FRAME                                  | Specialized Diverge E5 Premium Aluminum, Future Shock suspension,<br/>threaded BB, internal routing, 12x142mm thru-axle, flat-mount disc |

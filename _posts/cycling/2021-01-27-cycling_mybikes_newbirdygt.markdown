@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Birdy GT 10SP - Red Matt Black"
+title:  "New Birdy GT 10SP (2020) - Red Matt Black"
 date:   2021-01-27 19:40:00 +0900
 categories: Cycling MyBikes
 ---
@@ -56,31 +56,31 @@ categories: Cycling MyBikes
 
 ### # Specification
 
-| **NEW BIRDY GT 10SP**  |                                                     |
-|------------------------|-----------------------------------------------------|
-| FRAME                  | New Birdy Monocoque Disc Brake Version              |
-| FORK                   | New Birdy spring suspension Disk Brake Version      |
-| SUSPENSION LEVER       | RedPU                                               |
-| HEADSET                | Semi Intergrated 1-1/8"                             |
-| STEM                   | New Birdy double lock adjustable stem 10 degree     |
-| HANDLEBAR              | Alloy #6061T6 double-butted, 31. x 540mm 10 degree  |
-| GRIPS                  | \-                                                  |
-| SADDLE                 | Selle SanMarco Ero Open Fit Start Up Wide           |
-| SEATPOST               | Birdy 7075 34.9mm hard anodized w/ laser scale      |
-| SEAT BINDER            | \-                                                  |
-| BRAKE                  | Juin Tech GG-R1 Cable-Actuated Hydraulic Disc Brake |
-| BRAKE LEVER            | TEKTRO FL-740                                       |
-| SHIFT LEVER            | SRAM X5 Trigger 10speed                             |
-| FRONT DERAILLEUR       | \-                                                  |
-| REAR DERAILLEUR        | SRAM X5-A1 10speed                                  |
-| CASSETTE               | SRAM PG-1050 11-32T                                 |
-| CRANKSET               | Birdy 52T w/ double CG                              |
-| BB                     | Intergrated                                         |
-| CHAIN                  | \-                                                  |
-| RIMS                   | Alex Crostini M1.1 black anodized                   |
-| HUB                    | Birdy Disc Brake hubs 32H                           |
-| SPOKES                 | \-                                                  |
-| TIRE                   | Schwalbe Black Jack 18 x 1.9"                       |
-| PEDALS                 | VP-197 black cage w/BS reflectors                   |
-| DIMENSIONS             | Folded / 60cm(H) x 39cm(W) x 72cm(L)                |
-| WEIGHT                 | 10.3kg                                              |
+| **NEW BIRDY GT 10SP (2020)** |                                                     |
+|------------------------------|-----------------------------------------------------|
+| FRAME                        | New Birdy Monocoque Disc Brake Version              |
+| FORK                         | New Birdy spring suspension Disk Brake Version      |
+| SUSPENSION LEVER             | RedPU                                               |
+| HEADSET                      | Semi Intergrated 1-1/8"                             |
+| STEM                         | New Birdy double lock adjustable stem 10 degree     |
+| HANDLEBAR                    | Alloy #6061T6 double-butted, 31. x 540mm 10 degree  |
+| GRIPS                        | \-                                                  |
+| SADDLE                       | Selle SanMarco Ero Open Fit Start Up Wide           |
+| SEATPOST                     | Birdy 7075 34.9mm hard anodized w/ laser scale      |
+| SEAT BINDER                  | \-                                                  |
+| BRAKE                        | Juin Tech GG-R1 Cable-Actuated Hydraulic Disc Brake |
+| BRAKE LEVER                  | TEKTRO FL-740                                       |
+| SHIFT LEVER                  | SRAM X5 Trigger 10speed                             |
+| FRONT DERAILLEUR             | \-                                                  |
+| REAR DERAILLEUR              | SRAM X5-A1 10speed                                  |
+| CASSETTE                     | SRAM PG-1050 11-32T                                 |
+| CRANKSET                     | Birdy 52T w/ double CG                              |
+| BB                           | Intergrated                                         |
+| CHAIN                        | \-                                                  |
+| RIMS                         | Alex Crostini M1.1 black anodized                   |
+| HUB                          | Birdy Disc Brake hubs 32H                           |
+| SPOKES                       | \-                                                  |
+| TIRE                         | Schwalbe Black Jack 18 x 1.9"                       |
+| PEDALS                       | VP-197 black cage w/BS reflectors                   |
+| DIMENSIONS                   | Folded / 60cm(H) x 39cm(W) x 72cm(L)                |
+| WEIGHT                       | 10.3kg                                              |
