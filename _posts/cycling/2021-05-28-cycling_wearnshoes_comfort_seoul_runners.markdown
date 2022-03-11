@@ -8,7 +8,7 @@ categories: Cycling Wear&Shoes
 
 
 
-![컴포트 서울 러너스](../assets/img/2021-05-28/01-comfort_seoul_runners_open.jpg)
+![컴포트 서울 러너스](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeFM734%2FbtrvF9UcHsM%2FGE1t4k37IFQ7gqPhrLbIkK%2Fimg.jpg)
 
 
 
@@ -16,7 +16,7 @@ categories: Cycling Wear&Shoes
 
 
 
-![컴포트 서울 러너스 - 실착1](../assets/img/2021-05-28/02-comfort_seoul_runners_wear.jpg)
+![컴포트 서울 러너스 - 실착1](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdcwnBd%2FbtrvHZXStjM%2FzsIRvx7vBj5SW3wuDsw6zk%2Fimg.jpg)
 
 
 
@@ -24,7 +24,7 @@ categories: Cycling Wear&Shoes
 
 
 
-![컴포트 서울 러너스 - 실착2](../assets/img/2021-05-28/03-comfort_seoul_runners_wear_02.jpg)
+![컴포트 서울 러너스 - 실착2](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcE9XsB%2FbtrvDQVw07R%2FnKHYO01E6mUMLhhBdJAyW0%2Fimg.jpg)
 
 
 
@@ -32,7 +32,7 @@ categories: Cycling Wear&Shoes
 
 
 
-![컴포트 서울 러너스 - 라이딩](../assets/img/2021-05-28/04-comfort_seoul_runners_riding.jpg)
+![컴포트 서울 러너스 - 라이딩](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FxDtXl%2FbtrvE3NFP4D%2FKKHPMJWRRE6TYI1Ku9OCNK%2Fimg.jpg)
 
 
 

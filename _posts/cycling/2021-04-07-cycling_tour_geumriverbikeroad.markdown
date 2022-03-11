@@ -12,7 +12,7 @@ categories: Cycling Tour
 
 ### # 코스 검토 및 자전거 이동 계획
 
-![금강자전거길 코스 안내](../assets/img/2021-04-07/01-info_map07.jpg)
+![금강자전거길 코스 안내](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb85cow%2FbtrvAVWuAAo%2FBa3rrllt0ZbcHYKlto9Gkk%2Fimg.jpg)
 
 먼저 코스 확인에 들어갔습니다. 금강자전거길은 대청댐을 출발하여 최종적으로 군산하구둑에 도착하는 146km의 코스입니다. 국토종주자전거길 홈페이지에는 난이도 2/5로 쉬운 코스로 소개되어 있습니다. 예상시간은 9시간 40분으로 소개되어 있는데, 저는 식사와 보급/휴식 시간을 포함하여 10시간으로 계획을 세웠습니다.
 
@@ -75,29 +75,29 @@ categories: Cycling Tour
 
 새벽같이 일어나서 부랴부랴 차량으로 익산역으로 이동 했습니다. 새벽시간이라 길이 막히지는 않았습니다. 30분 정도 걸려서 도착을 했고, 기차 이용 티켓이 있으면 하루 동안 무료 주차가 가능한 익산역 남부 공영 주차장에 차량을 주차하고, 간이 포장한 자전거를 꺼내서 익산역으로 승차를 위해 이동 했습니다.
 
-![임시로 포장한 자전거를 싣고 출발](../assets/img/2021-04-07/02-train01.jpg)
+![임시로 포장한 자전거를 싣고 출발](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FSHJGw%2FbtrvE5LHRC7%2FeZIOzqnyP6Q8lffGO5a5NK%2Fimg.jpg)
 
 시간이 넉넉하다고 생각했는데 거의 딱 맞춰서 자전거를 가지고 기차에 탑승했습니다. 5호차에 좌석을 예매 헀지만 자전거를 놓을 자리가 마땅치 않아서 까페칸으로 자전거를 가지고 이동했습니다. 자전거 거치대가 있었으나 자전거 거치가 가능한 시간대의 열차가 아니라서 거치대는 접혀 있었습니다. 미니벨로의 경우라면 접어서 박스 보관함 같은 곳에 보관이 가능해 보였습니다. 열차를 잘 놓고 맞은편의 식당칸 의자에 앉아서 신탄진까지 이동 했습니다. 이동 중간에 논산에서 MTB를 가지신 분이 탑승 하셨는데 별도의 포장 없이 탑승하셨는데 승무원이 별도로 막거나 하지는 않았습니다. 그래도 정해진 규정인 만큼 제대로 포장을 해서 탑승하는게 맞겠다는 생각을 했습니다.
 
-![신탄진역 앞에서 한 컷](../assets/img/2021-04-07/03-sintanjin_station.jpg)
+![신탄진역 앞에서 한 컷](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fpl9jm%2FbtrvHZDIWPG%2FpYtuTZ5hTyyMkVCJlpIV1k%2Fimg.jpg)
 
 신탄진 역에 도착을 했습니다. 간이 포장한 포장지를 벗겨내서 버리고 앞바퀴를 조립했습니다. 앞바퀴만 뺐기 때문에 어렵지 않게 조립을 마치고, 보조배터리 장착을 위한 거치대 설치 및 네비게이션 사용을 위해 휴대폰을 거치 했습니다. 가볍게 몸을 풀어주고 금강 자전거길의 출발지인 대청댐 인증센터로 출발 했습니다. 신탄진역에서 대청댐까지 가는 길은 자전거도로가 매우 잘 되어있는편 입니다. 약간의 오르막이 있긴 하지만 워밍업 정도로 하기에 적당 했습니다.
 
-![대청댐 인증센터](../assets/img/2021-04-07/04-daechung_dam.jpg)
+![대청댐 인증센터](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FboJz33%2FbtrvJTQgLvH%2F32Vnj2y1FqKmqnbpN8HbXk%2Fimg.jpg)
 
 출발지인 대청댐 인증센터 입니다. 시간이 조금 더 넉넉했다면 대청댐 주변을 좀 더 즐겼겠지만 첫 장거리이기도 하고 나중에 시간에 대한 여유를 가지기 위해서 부랴부랴 출발 했습니다.
 
-![세종보 인증센터](../assets/img/2021-04-07/05-sejong_bo.jpg)
+![세종보 인증센터](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbkYUt8%2FbtrvHZjk482%2FUKminfQmGljnvV5fs7q3w1%2Fimg.jpg)
 
 난이도가 높지 않다는 말이 맞는거 같습니다. 거의 평지이기 때문에 크게 힘들지 않게 달릴수 있었습니다. 첫번째 체크 포인트인 세종보 인증센터에 도착을 했습니다. 신탄진역에서의 이동거리까지 하면 50Km가 조금 안되게 이동을 했습니다. 평지로 주로 이루어져 있고 50Km 정도는 평소에도 달렸던 거리 수준이라 크게 힘들지 않았습니다.
 
-![공주보 인증센터](../assets/img/2021-04-07/06-gongju_bo.jpg)
+![공주보 인증센터](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbZq9EE%2FbtrvGYkJvrx%2FhBuF4f2R2aAvY4Pt4vJUS0%2Fimg.jpg)
 
 열심히 달려 공주보에 도착을 했습니다. 세종보에서 공주보까지의 거리는 멀지가 않아서 조금 일찍 도착했나? 라는 생각까지 했습니다. 시간 계획대로 이동을 하고 있어서 첫 장거리에 대해 안심이 되는 기분이 들었습니다. 하지만 이것이 조금은 위험한 생각이었다는 것을 다음 코스에서 알게 되었습니다.
 
-![백제보 인증센터](../assets/img/2021-04-07/07-bakje_bo.jpg)
+![백제보 인증센터](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fk04JO%2FbtrvFBwM0Qm%2FjHOOK0xpsRr14veS1Sqkz1%2Fimg.jpg)
 
-![백제보 인증센터 편의점 보급](../assets/img/2021-04-07/08-bakje_bo_choco.jpg)
+![백제보 인증센터 편의점 보급](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FliNS7%2FbtrvEHjR7kg%2F4ybOSPoH3k3J1ckt4YOjkK%2Fimg.jpg)
 
 백제보 인증센터에 거의 근접 했을때 문제가 발생 했습니다. 바로 봉크라는 것을 처음 만나게 되었습니다. 새벽에 집에서 나설때 아무것도 먹지 않았고, 시간 때문에 부랴부랴 출발하느라 신탄진역에서도 아무것도 먹지 않고 출발했던 것이 화근이었습니다. 약 90Km를 주행한 상태에서 백제보를 2~3Km 앞두고 봉크가 발생했습니다. 일단 자전거에서 내려서 심호흡을 잘하고 이온 음료와 물로 수분을 보충하고 좀 쉬었습니다.
 
@@ -105,27 +105,27 @@ categories: Cycling Tour
 
 정신이 조금 돌아오는 듯 하여 걸어본 후에 다시 자전거에 올랐습니다. 조금은 혼미하게 페달을 굴려서 백제보 인증센터에 도착했고 바로 편의점으로 달려갔습니다. 초코바와 초코우유를 급하게 먹었고 조금 시간이 지나자 위험하게까지 느껴졌던 어지러움이 사라졌습니다. 백제보 인증센터에서 도장을 찍고 조금 길게 휴식의 시간을 가지고 다시 출발 했습니다.
 
-![점심은 장원막국수](../assets/img/2021-04-07/09-jangwon_noodle.jpg)
+![점심은 장원막국수](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FUDR0g%2FbtrvFeVkR81%2FWGApDKgkF9JT3pLKL2L9d0%2Fimg.jpg)
 
-![장원막국수](../assets/img/2021-04-07/10-jangwon_noodle_one.jpg)
+![장원막국수](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb8j0AP%2FbtrvGbkgcsV%2FaDhhBSOKvf2IsMcd7zrakk%2Fimg.jpg)
 
 드디어 첫끼를 먹습니다. 속에 부담을 주지 않고 가볍게 먹기위한 것을 찾다가 나름 맛집이라는 장원막국수를 먹게 되었습니다. 자전거를 끌고 가는데 사람들이 우르르 몰려 들어가는 광경을 목격 했습니다. 뭐 맛은 제 입맛에는 그냥 그런 수준이었습니다. 막국수가 뭐 다 그렇겠지만 말이죠. 속에 부담이 되지 않는다는 점은 매우 좋았습니다. 식후에 조금 앉아서 휴식을 취하고 다시 열심히 페달을 굴리기 시작 했습니다.
 
-![라이딩 중 휴식 한번](../assets/img/2021-04-07/11-rest_01.jpg)
+![라이딩 중 휴식 한번](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbevi1o%2FbtrvFgr3wPz%2Fb0lt0vOV3q1dEXrElcCpfk%2Fimg.jpg)
 
-![금강의 멋진 모습에 사진 한방](../assets/img/2021-04-07/11-rest_02.jpg)
+![금강의 멋진 모습에 사진 한방](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FBwUo0%2FbtrvJyyG5jz%2Fpk2JcUtbJ9Hg7rwSFRkzS1%2Fimg.jpg)
 
 남은 거리는 금강 자전거길 50Km + 익산역까지의 이동거리 25Km 정도 였습니다. 익산 성당포구 인증센터를 지날 무렵 진짜 큰 문제가 발생했습니다. 바로 오른쪽 외측 무릎에 통증이 느껴졌기 때문이었습니다. 자세를 계속적으로 바꾸어 가면서 라이딩을 이어갔고 너무 힘들다 싶게 통증이 느껴지면 쉬어가기 시작 했습니다. 웅포 캠핑장 부근에 들어서자 끝이 보일 무렵에는 왼쪽 외측 무릎까지 통증이 발생 합니다. 도저히 페달을 굴리기도 힘든 상태까지 이어 집니다. 다 왔다는 생각에 조금씩 쉬어가며 라이딩을 이어 갔습니다. 군산에 들어서 바다가 가까워지자 역풍이 엄청나게 심해서 점점 힘이 들었습니다.
 
-![금강하구둑 인증센터](../assets/img/2021-04-07/12-geum_river_hagoodook.jpg)
+![금강하구둑 인증센터](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FYhuxX%2FbtrvDjpgGQx%2Fo83JE9bKsK64tROJkKYqn0%2Fimg.jpg)
 
 드디어 금강 자전거길의 종착점인 금강하구둑 인증센터에 도착을 했습니다. 무릎의 통증이 심합니다. 여기서 고민에 빠졌습니다. 택시를 부를 것이냐 또는 조금 남아있는 체력으로 마지막 달려볼 것이냐. 결국 조금있는 체력을 짜내서 익산역까지 달리기로 합니다. 이게 잘한 것은 아닌거 같습니다. 무리다 싶으면 택시를 부르거나 하는 것이 현명한 선택인거 같습니다.
 
-![익산역 도착으로 라이딩 종료](../assets/img/2021-04-07/13-iksan_station_end.jpg)
+![익산역 도착으로 라이딩 종료](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGRhnr%2FbtrvAVvrccc%2FcVRkFPDaHagC4zVtcPRsM0%2Fimg.jpg)
 
 익산역 남부 공영 주차장에 드디어 도착했습니다. 체력은 이제 바닥입니다. 가장 큰 문제는 처음 통증이 발생한 오른쪽 무릎이 아닌 왼쪽 무릎 입니다. 오른쪽 무릎은 자전거를 타다보니 괜찮아 졌다는 느낌까지 드는데 왼쪽 무릎 외측을 통증이 매우 심합니다. 앞 바퀴를 분리해서 자전거를 자동차에 싣고 집으로 무사히 복귀 했습니다. 왼쪽 무릎 외측의 통증이 심각하여 얼음 찜질을 했지만 그날 저녁 자면서 통증에 시달렸습니다. 이게 한 2~3일 이어졌습니다.
 
-![금강자전거길 스트라바 로그](../assets/img/2021-04-07/14-geum_river_strava.png)
+![금강자전거길 스트라바 로그](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FVpyi9%2FbtrvDjJBljz%2F3ALAHQhRcJzQIC0MDoVJYK%2Fimg.jpg)
 
 금강 자전거길 라이딩 스트라바 기록 입니다. 금강 자전거길이 146km 라고 안내되어 있는데 신탄진역에서 대청댐까지 이동 및 도착지에서 익산역까지 이동거리가 추가되어 30km 정도를 더 라이딩하게 되었습니다. 이렇게 긴 거리는 처음 라이딩을 해봐서 그런지 무릎에도 무리가 있었고 체력적으로도 쉽지 않았습니다. 자전거를 타기 위해서는 먹는 것이 엄청나게 중요하다는 사실도 깨달았습니다.  
 

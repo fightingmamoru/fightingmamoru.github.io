@@ -10,7 +10,7 @@ categories: Cycling Wear&Shoes
 
 
 
-![컴포트 카이로스 핑크 - 패킹](../assets/img/2021-05-27/01-comfort_kairos_pink_packing.jpg)
+![컴포트 카이로스 핑크 - 패킹](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbRY53w%2FbtrvF9GCXZi%2FVnnrRVmn9508mdxiQojJO0%2Fimg.jpg)
 
 
 
@@ -18,7 +18,7 @@ categories: Cycling Wear&Shoes
 
 
 
-![컴포트 카이로스 핑크 - 앞/뒤](../assets/img/2021-05-27/02-comfort_kairos_pink_open.jpg)
+![컴포트 카이로스 핑크 - 앞/뒤](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnyxJd%2FbtrvGYkzxJR%2Fu53PzRQTErBR3AQFeawjK0%2Fimg.jpg)
 
 
 
@@ -26,7 +26,7 @@ categories: Cycling Wear&Shoes
 
 
 
-![컴포트 카이로스 핑크 - 실착](../assets/img/2021-05-27/03-comfort_kairos_pink_wear_01.jpg)
+![컴포트 카이로스 핑크 - 실착](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FJqw7B%2FbtrvE5dC7It%2FXqA3oMilh7A7JpVRdeOgd1%2Fimg.jpg)
 
 
 
@@ -34,7 +34,7 @@ categories: Cycling Wear&Shoes
 
 
 
-![컴포트 카이로스 핑크 - 슈즈와 함께 실착](../assets/img/2021-05-27/04-comfort_kairos_pink_wear_02.jpg)
+![컴포트 카이로스 핑크 - 슈즈와 함께 실착](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbahuv4%2FbtrvGZDKYhh%2FtlHwrkkWNu7IFUIWNR9eTK%2Fimg.jpg)
 
 
 
@@ -42,7 +42,7 @@ categories: Cycling Wear&Shoes
 
 
 
-![컴포트 카이로스 핑크 - 착용 후 라이딩](../assets/img/2021-05-27/05-comfort_kairos_pink_riding.jpg)
+![컴포트 카이로스 핑크 - 착용 후 라이딩](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc13kPf%2FbtrvGY5Y1ad%2FiHUVxI9aPXK6ISLzk0ABH0%2Fimg.jpg)
 
 
 

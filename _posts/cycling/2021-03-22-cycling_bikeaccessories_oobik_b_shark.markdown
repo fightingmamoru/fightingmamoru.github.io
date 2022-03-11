@@ -8,9 +8,9 @@ categories: Cycling BikeAccessories
 
 
 
-![OOBIK B Shark 패킹](../assets/img/2021-03-22/01-oobik_b_shark_packing.jpg)
+![OOBIK B Shark 패킹](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FNt39p%2FbtrvE46PlPt%2FaMZV5l8km45wsXDNKQnxX1%2Fimg.jpg)
 
-![OOBIK B Shark 스펙](../assets/img/2021-03-22/02-oobik_b_shark_spec.jpg)
+![OOBIK B Shark 스펙](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbJD00r%2FbtrvJUIbTwG%2FfsUy2fk7c1dgGCzidMr2LK%2Fimg.jpg)
 
 
 
@@ -18,9 +18,9 @@ categories: Cycling BikeAccessories
 
 
 
-![OOBIK B Shark 패키지 포장](../assets/img/2021-03-22/03-oobik_b_shark_package.jpg)
+![OOBIK B Shark 패키지 포장](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcY6rav%2FbtrvEFGc3AP%2FzXmmMa4tE9ZkBu5SAfsmB0%2Fimg.jpg)
 
-![OOBIK B Shark 패키지 상세](../assets/img/2021-03-22/04-oobik_b_shark_package_02.jpg)
+![OOBIK B Shark 패키지 상세](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbtksOD%2FbtrvI4dd8l8%2F6LTyW9VqlpSPrbWSc2Dwv0%2Fimg.jpg)
 
 
 
@@ -32,9 +32,9 @@ categories: Cycling BikeAccessories
 
 
 
-![설치 된 가민 케이던스 센서](../assets/img/2021-03-22/05-garmin_cadence_sensor.jpg)
+![설치 된 가민 케이던스 센서](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcdqH85%2FbtrvGaMiP81%2F99YKOYRYn7yHCjXH19Qy6k%2Fimg.jpg)
 
-![설치 된 가민 스피드 센서](../assets/img/2021-03-22/06-garmin_speed_sensor.jpg)
+![설치 된 가민 스피드 센서](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdwJAkb%2FbtrvE5km6kA%2FTOJTPu3KwdYqZTyOlYvBw0%2Fimg.jpg)
 
 
 
@@ -42,7 +42,7 @@ categories: Cycling BikeAccessories
 
 
 
-![OOBIK B Shark와 가민 스피드/케이던스 센터 비교](../assets/img/2021-03-22/07-oobik_garmin_compare.jpg)
+![OOBIK B Shark와 가민 스피드/케이던스 센터 비교](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdbGWvq%2FbtrvIyMm9p4%2FkJutLMqjLM2dUYpspbwtLK%2Fimg.jpg)
 
 
 
@@ -50,9 +50,9 @@ OOBIK B Shark 듀얼센서와 가민 스피드 센서, 케이던스 센서를 �
 
 
 
-![OOBIK B Shark 케이던스 용 자석](../assets/img/2021-03-22/08-oobik_b_shark_cadence.jpg)
+![OOBIK B Shark 케이던스 용 자석](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FPnqEK%2FbtrvGYY8Yat%2Fn7W3SCubO2ALdJNz8n4zpk%2Fimg.jpg)
 
-![OOBIK B Shark 스피드 용 자석 (밸브)](../assets/img/2021-03-22/09-oobik_b_shark_speed.jpg)
+![OOBIK B Shark 스피드 용 자석 (밸브)](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FljO4k%2FbtrvE5dAuna%2FFzxrkYNh6YKQszRjgdIZh0%2Fimg.jpg)
 
 
 
@@ -68,7 +68,7 @@ OOBIK B Shark 듀얼센서와 가민 스피드 센서, 케이던스 센서를 �
 
 
 
-![OOBIK B Shark 스피드 용 자석 (스포크)](../assets/img/2021-03-22/10-oobik_b_shark_speed_02.jpg)
+![OOBIK B Shark 스피드 용 자석 (스포크)](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FyPLTb%2FbtrvEGSEbSj%2FogKdiSjHzD5faSdSl0d9P0%2Fimg.jpg)
 
 
 
@@ -76,9 +76,9 @@ OOBIK B Shark 듀얼센서와 가민 스피드 센서, 케이던스 센서를 �
 
 
 
-![가민 130에서 인식 확인](../assets/img/2021-03-22/11-garmin_init.jpg)
+![가민 130에서 인식 확인](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCTHwU%2FbtrvIzLjXv4%2FITkMNFYSs7ENXjNPsHOjSk%2Fimg.jpg)
 
-![가민 130에서 테스트](../assets/img/2021-03-22/12-garmin_init_02.jpg)
+![가민 130에서 테스트](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdIT1RZ%2FbtrvH0I8PWD%2F2gjpgfvXFBKKPMvYFeUba0%2Fimg.jpg)
 
 
 
@@ -90,11 +90,11 @@ OOBIK B Shark 듀얼센서와 가민 스피드 센서, 케이던스 센서를 �
 
 
 
-![OOBIK B Shark 설치 후 테스트 라이딩 - 스트라바 기록](../assets/img/2021-03-22/13-oobik_test_strava.jpg)
+![OOBIK B Shark 설치 후 테스트 라이딩 - 스트라바 기록](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FYHZCX%2FbtrvF9T8cS3%2F92fvdxHCTE0y8lioldC7Mk%2Fimg.jpg)
 
-![OOBIK B Shark 설치 후 테스트 라이딩 - 가민 커넥트 스피드 기록](../assets/img/2021-03-22/14-oobik_test_garmin_speed.jpg)
+![OOBIK B Shark 설치 후 테스트 라이딩 - 가민 커넥트 스피드 기록](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbKs5Vh%2FbtrvJUg70G5%2FQbmRv7M6oKzgUjWq2She60%2Fimg.jpg)
 
-![OOBIK B Shark 설치 후 테스트 라이딩 - 가민 커넥트 케이던스 기록](../assets/img/2021-03-22/15-oobik_test_garmin_cadence.jpg)
+![OOBIK B Shark 설치 후 테스트 라이딩 - 가민 커넥트 케이던스 기록](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkVpBn%2FbtrvGY5VWqP%2FYcx9cdLs0ZFxjkRwQqIMa1%2Fimg.jpg)
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wheel - Fulcrum Racing 418 DB"
+title:  "Wheel Sets - Fulcrum Racing 418 DB"
 date:   2021-08-23 13:00:00 +0900
 categories: Cycling BikeParts
 ---
@@ -12,7 +12,7 @@ categories: Cycling BikeParts
 
 
 
-![Fulcrum Racing 418 DB Wheel Set](../assets/img/2021-08-24/00-fulcrum_wheel.jpg)
+![Fulcrum Racing 418 DB Wheel Set](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FvPVUc%2FbtrvAVhStGo%2FUZUYl4uTatTuHTmfCZixLK%2Fimg.jpg)
 
 
 
@@ -20,9 +20,9 @@ categories: Cycling BikeParts
 
 
 
-![Pirelli P Zero Velo 4 Seasons Tire](../assets/img/2021-08-24/02-pirelli_pzero_4s.jpg)
+![Pirelli P Zero Velo 4 Seasons Tire](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcG6OFu%2FbtrvJZpeLjc%2FDEuJJwczfhLqH4ZIZo1FE1%2Fimg.jpg)
 
-![Shimano Ultegra 160mm Disc Rotor](../assets/img/2021-08-24/01-ultegra_rotor_160.jpg)
+![Shimano Ultegra 160mm Disc Rotor](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FT4vGB%2FbtrvAVWsP4A%2FealevQgtFXZhwW9MTjU0h0%2Fimg.jpg)
 
 
 
@@ -34,9 +34,9 @@ categories: Cycling BikeParts
 
 
 
-![휠셋 교체를 위해 자전거를 정비대에 거치](../assets/img/2021-08-24/04-bike_repairt_stand.jpg)
+![휠셋 교체를 위해 자전거를 정비대에 거치](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbsx56e%2FbtrvH0o2A8a%2FAc92SkVggCEnGkucKkBrH0%2Fimg.jpg)
 
-![교체를 위한 디스크 로터, 타이어, 튜브 준비완료](../assets/img/2021-08-24/05-chage_set.jpg)
+![교체를 위한 디스크 로터, 타이어, 튜브 준비완료](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdeLjMQ%2FbtrvEF7pQJt%2F2Dvug0QCJQiWWaRgolzoC0%2Fimg.jpg)
 
 
 
@@ -44,9 +44,9 @@ categories: Cycling BikeParts
 
 
 
-![울테그라 디스크 로터에는 락링이 포함](../assets/img/2021-08-24/06-ultegra_rotor_detail.jpg)
+![울테그라 디스크 로터에는 락링이 포함](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbMmKMz%2FbtrvHjaIpah%2FklaPX39QHgPoK7AkomZLV0%2Fimg.jpg)
 
-![디스크 로터 설치 완료](../assets/img/2021-08-24/07-install_rotor.jpg)
+![디스크 로터 설치 완료](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkBgZV%2FbtrvJxmfAep%2F1cw32IpNSK52wFNnvnFpk1%2Fimg.jpg)
 
 
 
@@ -58,9 +58,9 @@ categories: Cycling BikeParts
 
 
 
-![타이어 설치 완료](../assets/img/2021-08-24/08-install_tire.jpg)
+![타이어 설치 완료](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcJWwk6%2FbtrvAUXzYfA%2FkYZxbVegk4umGiUxJD9wdK%2Fimg.jpg)
 
-![스페셜라이즈드 튜브 재활용](../assets/img/2021-08-24/10-specialized_tube.jpg)
+![스페셜라이즈드 튜브 재활용](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcnr5Cl%2FbtrvI3lggUM%2FtkYZYOKMWeBNkYHFBQBd40%2Fimg.jpg)
 
 
 
@@ -68,9 +68,9 @@ categories: Cycling BikeParts
 
 
 
-![시마노 SLX 11-42T 카세트](../assets/img/2021-08-24/09-slx_cassette.jpg)
+![시마노 SLX 11-42T 카세트](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcwyN1F%2FbtrvJUhh9cb%2FMKgbt5Z12cQS7BSYvpd7tk%2Fimg.jpg)
 
-![카세트 장착 작업 완료](../assets/img/2021-08-24/11-install_cassette.jpg)
+![카세트 장착 작업 완료](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FmgqhF%2FbtrvFe13t8i%2FHMexFPzTrRUADlJDuCMZuk%2Fimg.jpg)
 
 
 
@@ -78,7 +78,7 @@ categories: Cycling BikeParts
 
 
 
-![휠셋 교체 작업 완료](../assets/img/2021-08-24/12-chagne_complete.jpg)
+![휠셋 교체 작업 완료](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMaycd%2FbtrvF4x7Qry%2FXKlSJ4J8F6ohYI6GiJyaKK%2Fimg.jpg)
 
 
 

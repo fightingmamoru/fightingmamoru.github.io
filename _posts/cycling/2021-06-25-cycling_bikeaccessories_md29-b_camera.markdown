@@ -12,7 +12,7 @@ categories: Cycling BikeAccessories
 
 
 
-![MD29-B 카메라 포장 및 SD 카드](../assets/img/2021-06-25/01-camera_and_sd_card.jpg)
+![MD29-B 카메라 포장 및 SD 카드](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbcBG39%2FbtrvEGrKkdC%2F28zvZCdkdW7eUxEPxKZoa0%2Fimg.jpg)
 
 
 
@@ -20,11 +20,11 @@ MD29-B HD 카메라는 알리 익스프레스에서 18.92 달러 (약 21000원)�
 
 
 
-![MD29-B 카메라 구성품](../assets/img/2021-06-25/02-md29_package.jpg)
+![MD29-B 카메라 구성품](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdjG5eZ%2FbtrvIx7Vl7t%2FZXErhSfoY8pcHxUvmBVSm0%2Fimg.jpg)
 
-![MD29-B 카메라 전면](../assets/img/2021-06-25/11-md29_front.jpg)
+![MD29-B 카메라 전면](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FQBvPR%2FbtrvFe8MDPq%2FiuWDaLCL28CIXqVTJnCuc0%2Fimg.jpg)
 
-![MD29-B 카메라 후면](../assets/img/2021-06-25/12-md29_side.jpg)
+![MD29-B 카메라 후면](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbzd7zz%2Fbtrvyij2DWJ%2FqzKqnF1md0btkRfYo6gV1K%2Fimg.jpg)
 
 
 
@@ -36,7 +36,7 @@ MD29-B HD 카메라는 알리 익스프레스에서 18.92 달러 (약 21000원)�
 
 
 
-![가민 마운트 결함을 위한 가민 조인트](../assets/img/2021-06-25/03-sukou_garmin_joint.jpg)
+![가민 마운트 결함을 위한 가민 조인트](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbWqF19%2FbtrvHiv3A8D%2FtX4hMWEB8DVLrvplb9LEKK%2Fimg.jpg)
 
 
 
@@ -48,7 +48,7 @@ MD29-B HD 카메라는 알리 익스프레스에서 18.92 달러 (약 21000원)�
 
 
 
-![강력 폼 양면 테이프](../assets/img/2021-06-25/04-okong_mega_strong_tape.jpg)
+![강력 폼 양면 테이프](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbffwnu%2FbtrvJ9kWwwM%2FTDFjgOVR0UPdn7Q06Y018k%2Fimg.jpg)
 
 
 
@@ -56,7 +56,7 @@ MD29-B HD 카메라는 알리 익스프레스에서 18.92 달러 (약 21000원)�
 
 
 
-![뒷판 분리용 안경드라이버와 구멍 뚫기용 드릴 비트](../assets/img/2021-06-25/05-mini_driver_and_drill_beat.jpg)
+![뒷판 분리용 안경드라이버와 구멍 뚫기용 드릴 비트](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FSP0YR%2FbtrvJxNgwz5%2FlUYuyJ9nWr0HMiVbR1jonk%2Fimg.jpg)
 
 
 
@@ -64,9 +64,9 @@ MD29-B HD 카메라는 알리 익스프레스에서 18.92 달러 (약 21000원)�
 
 
 
-![카메라의 뒷판에 구멍 뚫을 위치 마킹](../assets/img/2021-06-25/06-back_panel_marking.jpg)
+![카메라의 뒷판에 구멍 뚫을 위치 마킹](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdXIfI7%2FbtrvIzLr7ss%2FDUd1uRFbtx00hKUurspMDK%2Fimg.jpg)
 
-![카메라의 뒷판에 구멍 뚫음](../assets/img/2021-06-25/07-back_panel_make_hole.jpg)
+![카메라의 뒷판에 구멍 뚫음](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Ftal4T%2FbtrvygmeAsn%2FC5O4SvNkZNDWiyNueVvBb1%2Fimg.jpg)
 
 
 
@@ -74,9 +74,9 @@ MD29-B HD 카메라는 알리 익스프레스에서 18.92 달러 (약 21000원)�
 
 
 
-![가민 조인트에 테이프를 접착](../assets/img/2021-06-25/08-garmin_joint_with_strong_tape.jpg)
+![가민 조인트에 테이프를 접착](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbix91w%2FbtrvEGk0Slt%2Ff9Na2nxSQD0G8qUjmKvGK1%2Fimg.jpg)
 
-![가민 조인트 모양에 맞추어 커팅](../assets/img/2021-06-25/09-garmin_joint_with_strong_tape_cut.jpg)
+![가민 조인트 모양에 맞추어 커팅](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbfTZ4j%2FbtrvJ8l2ty2%2FUvOY42yzAjPgfHtKiqgzkk%2Fimg.jpg)
 
 
 
@@ -84,7 +84,7 @@ MD29-B HD 카메라는 알리 익스프레스에서 18.92 달러 (약 21000원)�
 
 
 
-![가민 조인트 나사를 조여 마무리](../assets/img/2021-06-25/10-garmin_joint_install.jpg)
+![가민 조인트 나사를 조여 마무리](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F9Dwxp%2FbtrvF4EO2Pv%2F48CTAaH3u5PTBTMpZ4ADn1%2Fimg.jpg)
 
 
 
@@ -92,7 +92,7 @@ MD29-B HD 카메라는 알리 익스프레스에서 18.92 달러 (약 21000원)�
 
 
 
-![트리고 파워안장 가민 마운트에 결착](../assets/img/2021-06-25/13-md29_install_on_seat.jpg)
+![트리고 파워안장 가민 마운트에 결착](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fk0W66%2FbtrvF3614DQ%2FLPuyluZXtrJqKQItcU43FK%2Fimg.jpg)
 
 
 
