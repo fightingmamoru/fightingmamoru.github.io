@@ -2,7 +2,7 @@
 layout: post
 title:  "Trek X-Caliber 9 (2021) - Teal/Volt Fade"
 date:   2020-11-19 17:00:00 +0900
-categories: Cycling MyBikes
+categories: ["Cycling", "My Bikes"]
 ---
 ![Trek X-Caliber 9 (2021) / 출처 : Trek Bikes (https://www.trekbikes.com)](../assets/img/2020-11-19/xcaliber9.png)
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "TONKATSU 서황 - 효리네 민박에 등장 한 제주 애월 소길리 돈가스"
 date:   2022-03-14 13:00:00 +0900
-categories: JejuLife Restaurant
+categories: ["In Jeju", "Restaurant"]
 ---
 제주로 이주한 지 이제 정확하게 한 달이 되었습니다. 짐 정리와 이런저런 일들을 보느라 나름 정신없지 지나갔네요.
 이번 주는 왼쪽 팔꿈치 부상에 일요일은 비가 온다는 예보가 있어서 하고 싶었던 주말 오전 자전거 라이딩은 접었습니다.

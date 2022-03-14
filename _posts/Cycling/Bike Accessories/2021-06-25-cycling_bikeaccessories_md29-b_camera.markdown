@@ -2,7 +2,7 @@
 layout: post
 title:  "Camera - 블랙박스 MD29-B HD Camera"
 date:   2021-07-01 16:00:00 +0900
-categories: Cycling BikeAccessories
+categories: ["Cycling", "Bike Accessories"]
 ---
 코로나와 더불어 자전거 동호인이 늘면서 블랙박스는 라이더들에게 꼭 필요한 물건 중의 하나가 되었습니다. 저도 필요 하지만 사악한 가격 덕분에 구입에 대해서는 회의적인 생각을 가지고 구입하지 못하고 있었습니다.
 

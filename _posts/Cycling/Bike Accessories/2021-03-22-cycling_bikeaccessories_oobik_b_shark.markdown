@@ -2,7 +2,7 @@
 layout: post
 title:  "Sensor - OOBIK B Shark 스피드/케이던스 듀얼센서 (자출사 체험단 후기)"
 date:   2021-03-22 20:35:00 +0900
-categories: Cycling BikeAccessories
+categories: ["Cycling", "Bike Accessories"]
 ---
 자전거를 타는 사람이라면 대부분 가입되어있을 바록 그곳 국내 최대의 자전거 커뮤니티 중 하나인 네이버 카페 "자출사"에 물론 저도 가입되어 있습니다. 자출사에서는 종종 체험단 이벤트를 진행 하는데 이번에 운 좋게 체험단 이벤트에 당첨이 되어 "OOBIK B Shark 스피드/케이던스 듀얼센서" 를 사용해 보게 되었습니다.
 

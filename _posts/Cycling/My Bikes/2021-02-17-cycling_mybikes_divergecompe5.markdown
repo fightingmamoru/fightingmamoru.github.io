@@ -2,7 +2,7 @@
 layout: post
 title:  "Specialized Diverge Comp E5 (2021) - Gloss Blush/Cast Blue Metallic/Chrome/Wild Ferns"
 date:   2021-02-17 20:39:00 +0900
-categories: Cycling MyBikes
+categories: ["Cycling", "My Bikes"]
 ---
 ![Specialized Diverge Comp E5 (2021) - Gloss Blush/Cast Blue Metallic/Chrome/Wild Ferns / 출처 : Specialized (https://www.specialized.com)](../assets/img/2021-02-17/divergecompe5_2021.png)
 

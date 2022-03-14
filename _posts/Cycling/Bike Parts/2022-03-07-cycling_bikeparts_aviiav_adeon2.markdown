@@ -2,7 +2,7 @@
 layout: post
 title:  "Wheel Sets - Aviiav Adeon 2nd Generation DB 50mm"
 date:   2022-03-07 16:00:00 +0900
-categories: Cycling BikeParts
+categories: ["Cycling", "Bike Parts"]
 ---
 그래블 바이크인 다이버지 구매 후에 기본 장착 된 Axis Elite + 패스파인더 38c 타이어로 주행을 했습니다.
 그러던 중 스포크 문제로 휠셋에 문제가 몇번 생기게 되자 어차피 주로 자전거 도로와 공도를 주행하고 있으니,

@@ -2,7 +2,7 @@
 layout: post
 title:  "KHS Alite 500 (2006) - Red"
 date:   2020-11-18 17:00:00 +0900
-categories: Cycling MyBikes
+categories: ["Cycling", "My Bikes"]
 ---
 ![KHS Alite 500 (2006) / 출처 : KHS Bicycles (https://khsbicycles.com)](../assets/img/2020-11-18/alite500.png)
 

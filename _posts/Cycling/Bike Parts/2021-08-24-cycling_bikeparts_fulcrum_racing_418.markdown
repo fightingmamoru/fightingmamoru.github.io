@@ -2,7 +2,7 @@
 layout: post
 title:  "Wheel Sets - Fulcrum Racing 418 DB"
 date:   2021-08-23 13:00:00 +0900
-categories: Cycling BikeParts
+categories: ["Cycling", "Bike Parts"]
 ---
 자전거 구입 후 별다른 업그레이드 없이 7개월-1500km 정도를 라이딩 했습니다. 제가 타고있는 다이버지 콤프 E5의 기본 휠셋은 스페셜라이즈드 Axis Elite 휠셋 입니다. 7개월의 기간 동안 큰 충격이나 사고가 없었지만 스포크가 두번 부러졌고, 스포크를 교체하여 큰 문제없이 타고는 있습니다. 하지만 스포크가 두번이나 부러지면서 라이딩을 마음먹고 나가려다가 제동이 걸리게 되니 확인이 되는 순간 굉장히 짜증나는 상황이 됩니다.
 
