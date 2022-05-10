@@ -4,7 +4,7 @@ title:  "Liv Enchant 20 Lite (2022) - Violet Storm"
 date:   2022-05-02 18:40:00 +0900
 categories: ["Cycling", "My Bikes"]
 ---
-![Liv Enchant 20 Lite (2022) - Violet Storm / 출처 : Liv Cycling (https://www.liv-cycling.com/)](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdu29R2%2FbtrA33UXxVg%2FfHvXGgE927lRfB0dgv6D10%2Fimg.png)
+![Liv Enchant 20 Lite (2022) - Violet Storm / 출처 :z Liv Cycling (https://www.liv-cycling.com/)](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdu29R2%2FbtrA33UXxVg%2FfHvXGgE927lRfB0dgv6D10%2Fimg.png)
 
 ### # 두발 자전거 타기에 성공한 딸의 두번째 자전거 선택
 
