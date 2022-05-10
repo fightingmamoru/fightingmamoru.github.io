@@ -23,33 +23,40 @@ categories: ["Cycling", "Bike Accessories"]
 
 <br/>
 
-1. 라파 바 백
+* 라파 바 백
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FKxFQB%2FbtrBLGdO3nX%2FckOJh7Qh7aKpMmhW7yzT2K%2Fimg.png)
+  ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FKxFQB%2FbtrBLGdO3nX%2FckOJh7Qh7aKpMmhW7yzT2K%2Fimg.png)
 
-2. 아피듀라 레이싱 핸들바 미니 백
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGPdsG%2FbtrBIy8Hsko%2FWChCsMYKXtBpKmOMcKUoy0%2Fimg.png)
+* 아피듀라 레이싱 핸들바 미니 백
 
-3. 자이언트 X RAWROW 리사이클 힙색
+  ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FGPdsG%2FbtrBIy8Hsko%2FWChCsMYKXtBpKmOMcKUoy0%2Fimg.png)
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcCPlCZ%2FbtrBHTSOghM%2FszKJihkGEAfnknsjNQiRY1%2Fimg.png)
 
-4. 브룩스 스케이프 핸들바 파우치
+* 자이언트 X RAWROW 리사이클 힙색
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbbAFQl%2FbtrBMGD8O0D%2FE7ZJeVLtyDgsG0g2b1K0d0%2Fimg.png)
+  ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcCPlCZ%2FbtrBHTSOghM%2FszKJihkGEAfnknsjNQiRY1%2Fimg.png)
 
-5. 오타고 핸들바백
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbmsqY8%2FbtrBLWUZWCa%2FjyGBoFF0k0aDFj0PzPWpgK%2Fimg.png)
+* 브룩스 스케이프 핸들바 파우치
 
-6. 오르트립 핸들바백
+  ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbbAFQl%2FbtrBMGD8O0D%2FE7ZJeVLtyDgsG0g2b1K0d0%2Fimg.png)
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FUoFAc%2FbtrBNcQkmLR%2FCOh31RkNsvEF62oETepghk%2Fimg.png)
 
-7. 리스트랩 캐니스터 핸들바백
+* 오타고 핸들바백
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F7Zpic%2FbtrBLYZArjQ%2FoHoa71n22SWLE7HTuN5GV0%2Fimg.png)
+  ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbmsqY8%2FbtrBLWUZWCa%2FjyGBoFF0k0aDFj0PzPWpgK%2Fimg.png)
+
+
+* 오르트립 핸들바백
+
+  ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FUoFAc%2FbtrBNcQkmLR%2FCOh31RkNsvEF62oETepghk%2Fimg.png)
+
+
+* 리스트랩 캐니스터 핸들바백
+
+  ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F7Zpic%2FbtrBLYZArjQ%2FoHoa71n22SWLE7HTuN5GV0%2Fimg.png)
+
 
 리스트업 한 가방들 중에서는 라파 바 백이 가장 마음에 들었습니다. 적당한 사이즈와 라파의 감성까지... 딱이라는 생각이 들었습니다.
 클리앙 자전거당에 올려둔 글에 댓글이 달리기 시작했습니다. 댓글로 좋은 조언과 추천들이 달렸습니다. (집단지성의 힘은 대단합니다.)
