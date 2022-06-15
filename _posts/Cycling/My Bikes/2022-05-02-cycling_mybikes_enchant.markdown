@@ -4,7 +4,7 @@ title:  "Liv Enchant 20 Lite (2022) - Violet Storm"
 date:   2022-05-02 18:40:00 +0900
 categories: ["Cycling", "My Bikes"]
 ---
-![Liv Enchant 20 Lite (2022) - Violet Storm / 출처 :z Liv Cycling (https://www.liv-cycling.com/)](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdu29R2%2FbtrA33UXxVg%2FfHvXGgE927lRfB0dgv6D10%2Fimg.png)
+![Liv Enchant 20 Lite (2022) - Violet Storm / 출처 : Liv Cycling (https://www.liv-cycling.com/)](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdu29R2%2FbtrA33UXxVg%2FfHvXGgE927lRfB0dgv6D10%2Fimg.png)
 
 ### # 두발 자전거 타기에 성공한 딸의 두번째 자전거 선택
 
@@ -57,13 +57,6 @@ categories: ["Cycling", "My Bikes"]
 타이어 두께도 2.1인치로 안정적일 듯 했습니다. 깍두기 타이어라 조금 적응하고 나면 나중에 슬릭 타이어로 바꿔주면 좋을 것 같구요. 
 자전거를 실제 라이딩할 딸 아이에게 자전거를 쭉 보여주고 선택하게 했습니다. 딸의 선택은 리브 Liv Enchant 20 Lite 바이올렛 스톰 색상 이었습니다.
 민트색상을 고를 것이라고 예상했는데 의외로 보라색을 골랐네요. 회사 주변 자이언트 매장에 예약 했고 2~4주 정도 예상이 된다고 합니다.
-
-
-
-
-### # 수령 후 추가후기 작성 예정
-
-Updating...
 
 
 
