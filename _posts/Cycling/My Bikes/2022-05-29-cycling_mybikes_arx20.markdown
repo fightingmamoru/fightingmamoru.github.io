@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Liv Enchant 20 Lite (2022) - Violet Storm"
+title:  "Giant ARX 20 (2022) - Snow Drift"
 date:   2022-05-29 18:40:00 +0900
 categories: ["Cycling", "My Bikes"]
 ---
