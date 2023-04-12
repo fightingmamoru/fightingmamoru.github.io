@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "KHS Alite 500 (2006) - Red"
+title:  "[Cycling/My Bikes] KHS Alite 500 (2006) - Red"
 date:   2020-11-18 17:00:00 +0900
 categories: ["Cycling", "My Bikes"]
 ---

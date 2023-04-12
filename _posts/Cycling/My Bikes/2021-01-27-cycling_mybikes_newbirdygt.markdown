@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Birdy GT 10SP (2020) - Red Matt Black"
+title:  "[Cycling/My Bikes] New Birdy GT 10SP (2020) - Red Matt Black"
 date:   2021-01-27 19:40:00 +0900
 categories: ["Cycling", "My Bikes"]
 ---

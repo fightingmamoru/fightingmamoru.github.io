@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sensor - OOBIK B Shark 스피드/케이던스 듀얼센서 (자출사 체험단 후기)"
+title:  "[Cycling/Bike Accessories] Sensor - OOBIK B Shark 스피드/케이던스 듀얼센서 (자출사 체험단 후기)"
 date:   2021-03-22 20:35:00 +0900
 categories: ["Cycling", "Bike Accessories"]
 ---

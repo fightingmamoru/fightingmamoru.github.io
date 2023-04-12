@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Liv Enchant 20 Lite (2022) - Violet Storm"
+title:  "[Cycling/My Bikes] Liv Enchant 20 Lite (2022) - Violet Storm"
 date:   2022-05-02 18:40:00 +0900
 categories: ["Cycling", "My Bikes"]
 ---

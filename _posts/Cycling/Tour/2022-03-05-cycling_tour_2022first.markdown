@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2022년 시즌 온 라이딩 - 제주 이주 첫 라이딩"
+title:  "[Cycling/Tour] 2022년 시즌 온 라이딩 - 제주 이주 첫 라이딩"
 date:   2022-03-05 12:00:00 +0900
 categories: ["Cycling", "Tour"]
 ---

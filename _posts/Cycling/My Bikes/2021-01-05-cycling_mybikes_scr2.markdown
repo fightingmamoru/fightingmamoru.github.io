@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Giant SCR2 (2021) - Dusty Blue"
+title:  "[Cycling/My Bikes] Giant SCR2 (2021) - Dusty Blue"
 date:   2021-01-05 19:05:00 +0900
 categories: ["Cycling", "My Bikes"]
 ---

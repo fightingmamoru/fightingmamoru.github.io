@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wheel Sets - Aviiav Adeon 2nd Generation DB 50mm"
+title:  "[Cycling/Bike Parts] Wheel Sets - Aviiav Adeon 2nd Generation DB 50mm"
 date:   2022-03-07 16:00:00 +0900
 categories: ["Cycling", "Bike Parts"]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bags - APIDURA BOLT-ON TOP TUBE PACK & REAR TOP TUBE PACK"
+title:  "[Cycling/Bike Accessories] Bags - APIDURA BOLT-ON TOP TUBE PACK & REAR TOP TUBE PACK"
 date:   2021-06-10 11:05:00 +0900
 categories: ["Cycling", "Bike Accessories"]
 ---

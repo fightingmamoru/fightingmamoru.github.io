@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Socks - 컴포트 서울러너스 양말 (체험단)"
+title:  "[Cycling/Wear&Shoes] Socks - 컴포트 서울러너스 양말 (체험단)"
 date:   2021-05-28 20:25:00 +0900
 categories: ["Cycling", "Wear&Shoes"]
 ---

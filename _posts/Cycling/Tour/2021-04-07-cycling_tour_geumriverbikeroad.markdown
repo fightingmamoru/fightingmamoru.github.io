@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "국토종주 자전거길 - 금강자전거길"
+title:  "[Cycling/Tour] 국토종주 자전거길 - 금강자전거길"
 date:   2021-04-07 21:05:00 +0900
 categories: ["Cycling", "Tour"]
 ---

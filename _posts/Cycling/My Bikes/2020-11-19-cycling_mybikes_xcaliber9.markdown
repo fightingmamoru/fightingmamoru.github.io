@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trek X-Caliber 9 (2021) - Teal/Volt Fade"
+title:  "[Cycling/My Bikes] Trek X-Caliber 9 (2021) - Teal/Volt Fade"
 date:   2020-11-19 17:00:00 +0900
 categories: ["Cycling", "My Bikes"]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Socks - 컴포트 카이로스 핑크 양말 (체험단)"
+title:  "[Cycling/Wear&Shoes] Socks - 컴포트 카이로스 핑크 양말 (체험단)"
 date:   2021-05-27 20:20:00 +0900
 categories: ["Cycling", "Wear&Shoes"]
 ---

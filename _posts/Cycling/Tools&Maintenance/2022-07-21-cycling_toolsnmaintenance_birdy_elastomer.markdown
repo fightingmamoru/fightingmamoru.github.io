@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "버디 GT 리어 엘라스토머 파손 / 교체 (미스미)"
+title:  "[Cycling/Tools&Maintenance] 버디 GT 리어 엘라스토머 파손 / 교체 (미스미)"
 date:   2022-07-26 12:30:00 +0900
 categories: ["Cycling", "Tools&Maintenance"]
 ---

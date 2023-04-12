@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TONKATSU 서황 - 효리네 민박에 등장 한 제주 애월 소길리 돈가스"
+title:  "[In Jeju/Restaurant] TONKATSU 서황 - 효리네 민박에 등장 한 제주 애월 소길리 돈가스"
 date:   2022-03-14 13:00:00 +0900
 categories: ["In Jeju", "Restaurant"]
 ---

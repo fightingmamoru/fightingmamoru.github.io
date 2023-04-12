@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wheel Sets - Fulcrum Racing 418 DB"
+title:  "[Cycling/Bike Parts] Wheel Sets - Fulcrum Racing 418 DB"
 date:   2021-08-23 13:00:00 +0900
 categories: ["Cycling", "Bike Parts"]
 ---
