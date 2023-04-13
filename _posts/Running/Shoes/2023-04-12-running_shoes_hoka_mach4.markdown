@@ -93,7 +93,7 @@ categories: ["Running", "Running Shoes"]
 
 
 <p style="text-align: center; padding-top: 20px;">
-	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbMozlE%2Fbtr9CIqeEqm%2FMquhdz0OmE9tceNrKUd4d1%2Fimg.png" width="80%">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fowmo9%2Fbtr9GaT4f3d%2Fqj0bbP7D6u4C15KkmJ3Fh0%2Fimg.png" width="80%">
 </p>
 <p style="text-align: center;">
 	<em>[첫 대회 출전 + 하프 도전. 운 좋게 골인하는 순간을 아내가 포착]</em>
