@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Cycling/Bike Accessories] Bags - ORNOT HANDLEBAR BAG MINI & SEAT BAG"
+title:  "[Cycling/Accessories] Bags - ORNOT HANDLEBAR BAG MINI & SEAT BAG"
 date:   2022-05-10 19:00:00 +0900
 categories: ["Cycling", "Bike Accessories"]
 ---

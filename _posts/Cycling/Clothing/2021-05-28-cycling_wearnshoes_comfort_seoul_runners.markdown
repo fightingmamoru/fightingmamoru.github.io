@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Cycling/Wear&Shoes] Socks - 컴포트 서울러너스 양말 (체험단)"
+title:  "[Cycling/Clothing] Socks - 컴포트 서울러너스 양말 (체험단)"
 date:   2021-05-28 20:25:00 +0900
-categories: ["Cycling", "Wear&Shoes"]
+categories: ["Cycling", "Cycling Clothing"]
 ---
 먼저 후기를 남겼던 컴포트 카이로스 핑크 체험단 후기에 이어서 이번에는 서울 러너스 양말에 대한 후기를 남겨볼까 합니다. 컴포트 서울 러너스 역시 체험단으로 선정되어 제공 받은 양말 입니다. 컴포트 홈페이지에 크로스핏 전문 양말로 소개 된 카이로스 핑크와 다르게 서울 러너스 양말은 런닝 양말로 소개되어 있습니다.
 
