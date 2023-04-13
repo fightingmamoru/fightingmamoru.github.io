@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Cycling/Tools&Maintenance] OLC MARS-1 자전거 정비대"
+title:  "[Cycling/Tools&MA] OLC MARS-1 자전거 정비대"
 date:   2021-06-17 10:50:00 +0900
-categories: ["Cycling", "Tools&Maintenance"]
+categories: ["Cycling", "Tools&MA"]
 ---
 거치대와 정비대 용도로 토픽 튠업 스탠드 X 를 사용해 왔습니다. 그래블인 다이버지의 경우는 크게 문제가 없었지만 미니벨로인 버디의 경우에는 거치하여 체인오일을 바르거나 간단한 정비를 하는데 어려움이 있었습니다. 거기에 허리를 굽혀 장시간 자전거를 정비하다 보면 어려움과 피곤함도 있었습니다.
 

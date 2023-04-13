@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Cycling/Bike Accessories] Camera - 블랙박스 MD29-B HD Camera"
+title:  "[Cycling/Accessories] Camera - 블랙박스 MD29-B HD Camera"
 date:   2021-07-01 16:00:00 +0900
 categories: ["Cycling", "Bike Accessories"]
 ---

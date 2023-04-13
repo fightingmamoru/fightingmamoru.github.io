@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Cycling/My Bikes] Giant ARX 20 (2022) - Snow Drift"
+title:  "[Cycling/Bikes] Giant ARX 20 (2022) - Snow Drift"
 date:   2022-05-29 18:40:00 +0900
-categories: ["Cycling", "My Bikes"]
+categories: ["Cycling", "Bikes"]
 ---
 ![Giant ARX 20 (2022) - Snow Drift / 출처 : Giant (https://www.giant-bicycles.com/)](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkBOec%2FbtrESl4PeBz%2FT3jXysTBm05F81yzGkMeJ0%2Fimg.jpg)
 

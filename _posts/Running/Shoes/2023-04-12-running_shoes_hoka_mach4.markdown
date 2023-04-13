@@ -17,7 +17,12 @@ categories: ["Running", "Running Shoes"]
 
 
 
-![러닝의 시작.아디다스 오즈위고](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcs6twR%2Fbtr9NmzzyvD%2Flwsm6KgsRpL2hE6ALHskW0%2Fimg.png)
+<p style="text-align: center; padding-top: 20px;">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcs6twR%2Fbtr9NmzzyvD%2Flwsm6KgsRpL2hE6ALHskW0%2Fimg.png" width="80%">
+</p>
+<p style="text-align: center;">
+	<em>[러닝의 시작. 아디다스 오즈위고]</em>
+</p>
 
 
 
@@ -35,9 +40,19 @@ categories: ["Running", "Running Shoes"]
 
 
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuwkHY%2Fbtr9DHR5YtU%2FYqRW7zfT7LZIs8QKMSeKBk%2Fimg.png)
+<p style="text-align: center; padding-top: 20px;">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuwkHY%2Fbtr9DHR5YtU%2FYqRW7zfT7LZIs8QKMSeKBk%2Fimg.png" width="80%">
+</p>
+<p style="text-align: center;">
+	<em>[호카 오네 오네 마크 4. 사이즈 275mm]</em>
+</p>
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FIXres%2Fbtr9DI4yXEG%2FxUkjA8XGDAmbjnVd9mxZ4k%2Fimg.png)
+<p style="text-align: center; padding-top: 20px;">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FIXres%2Fbtr9DI4yXEG%2FxUkjA8XGDAmbjnVd9mxZ4k%2Fimg.png" width="80%">
+</p>
+<p style="text-align: center;">
+	<em>[일상화로 신어도 될 정도로 깔끔. 화이트 베이스에 주황 계열 포인트 굿!]</em>
+</p>
 
 
 
@@ -54,9 +69,19 @@ categories: ["Running", "Running Shoes"]
 
 
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FLLUqu%2Fbtr9MokbuiW%2FXAIFeWV5DKkEeSeQIGZXR0%2Fimg.png)
+<p style="text-align: center; padding-top: 20px;">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FLLUqu%2Fbtr9MokbuiW%2FXAIFeWV5DKkEeSeQIGZXR0%2Fimg.png" width="80%">
+</p>
+<p style="text-align: center;">
+	<em>[첫 착용샷. 발볼이나 길이감이 적당해서 착화감이 굿]</em>
+</p>
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbMozlE%2Fbtr9CIqeEqm%2FMquhdz0OmE9tceNrKUd4d1%2Fimg.png)
+<p style="text-align: center; padding-top: 20px;">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbMozlE%2Fbtr9CIqeEqm%2FMquhdz0OmE9tceNrKUd4d1%2Fimg.png" width="80%">
+</p>
+<p style="text-align: center;">
+	<em>[러닝 후, 제주 바다를 바라보면 찍은 감성 샷. 예쁜 신발 + 예쁜 배경]</em>
+</p>
 
 
 
@@ -67,11 +92,26 @@ categories: ["Running", "Running Shoes"]
 
 
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fowmo9%2Fbtr9GaT4f3d%2Fqj0bbP7D6u4C15KkmJ3Fh0%2Fimg.png)
+<p style="text-align: center; padding-top: 20px;">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbMozlE%2Fbtr9CIqeEqm%2FMquhdz0OmE9tceNrKUd4d1%2Fimg.png" width="80%">
+</p>
+<p style="text-align: center;">
+	<em>[첫 대회 출전 + 하프 도전. 운 좋게 골인하는 순간을 아내가 포착]</em>
+</p>
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F6a70Q%2Fbtr9MoqTzQC%2F5mMKffAm0fZs9q1WmOtsl1%2Fimg.png)
+<p style="text-align: center; padding-top: 20px;">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F6a70Q%2Fbtr9MoqTzQC%2F5mMKffAm0fZs9q1WmOtsl1%2Fimg.png" width="80%">
+</p>
+<p style="text-align: center;">
+	<em>[대회 때는 신발에 이런 형태로 칩을 착용하여 자동으로 기록을 측정]</em>
+</p>
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbZqIzt%2Fbtr9AZF0cWc%2FQvwicaOGRdg4nRLlSAlrKk%2Fimg.png)
+<p style="text-align: center; padding-top: 20px;">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbZqIzt%2Fbtr9AZF0cWc%2FQvwicaOGRdg4nRLlSAlrKk%2Fimg.png" width="80%">
+</p>
+<p style="text-align: center;">
+	<em>[첫 대회의 결과물. 첫 대회 하프 기록은 1:54:29.06]</em>
+</p>
 
 
 
@@ -81,7 +121,13 @@ categories: ["Running", "Running Shoes"]
 불만 없이 잘 신고있는 첫 러닝화 입니다.
 
 
-![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcSOKXY%2Fbtr9Nhd0bns%2FH1l6HbTCJWOwYTKqLzicn0%2Fimg.png)
+
+<p style="text-align: center; padding-top: 20px;">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcSOKXY%2Fbtr9Nhd0bns%2FH1l6HbTCJWOwYTKqLzicn0%2Fimg.png" width="80%">
+</p>
+<p style="text-align: center;">
+	<em>[마크 4 최고의 단점 아웃솔 내구성. 400km 가량을 달렸는데 엄청 닳았다]</em>
+</p>
 
 
 
@@ -99,13 +145,14 @@ categories: ["Running", "Running Shoes"]
 	- 아웃솔 : EVA
 	- 미드솔 : PROFLY
 	- 어퍼 : 엔지니어드 메쉬
-- 장점
+- 강점
   - 적당한 쿠션감과 반응성
   - 부드럽고 편한 어퍼
   - 가벼운 무게
   - 적당한 발볼과 힐컵으로 편한 착화감
-- 단점
+- 약점
   - 내구성이 떨어지는 아웃솔
   - 신발끈이 얇아 발등 부위 별 압박 강도의 차이가 발생
 - 총평
 	- 올라운드로 신을 수 있는 입문용으로 아주 적당한 러닝화
+	- 호카 신발의 종특이라고도 하는데 아웃솔 내구성이 너무 안좋음

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Cycling/Tools&Maintenance] 버디 GT 리어 엘라스토머 파손 / 교체 (미스미)"
+title:  "[Cycling/Tools&MA] 버디 GT 리어 엘라스토머 파손 / 교체 (미스미)"
 date:   2022-07-26 12:30:00 +0900
-categories: ["Cycling", "Tools&Maintenance"]
+categories: ["Cycling", "Tools&MA"]
 ---
 2월에 제주 이주 후 다시 몸무게 앞자리가 9로 바뀐 체중을 보고 5월초 부터 체중 감량을 결심하고 매일 출근 전 버디로 라이딩을 하고 있습니다.
 로드 휠셋으로 변경한 다이버지로도 가능하지만 아무래도 운동을 목적으로 하고 있고 운반이 편해서 미니벨로인 버디를 이용하기로 했습니다.

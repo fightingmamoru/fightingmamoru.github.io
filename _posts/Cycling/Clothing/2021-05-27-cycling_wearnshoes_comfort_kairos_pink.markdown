@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Cycling/Wear&Shoes] Socks - 컴포트 카이로스 핑크 양말 (체험단)"
+title:  "[Cycling/Clothing] Socks - 컴포트 카이로스 핑크 양말 (체험단)"
 date:   2021-05-27 20:20:00 +0900
-categories: ["Cycling", "Wear&Shoes"]
+categories: ["Cycling", "Cycling Clothing"]
 ---
 컴포트에서 사이클 체험단을 모집하여 서울러너스와 쿨핏 라이즈업 양말을 제공하고 체험 후기를 남기는 이벤트를 진행했습니다. 저는 이미 라파, 아소스, 알레의 사이클 양말을 이용하고 있습니다. 기존 양말들이 좀 얇고 압박되지 않은 느낌이 덜한 느낌이 있기도 하고 특이하고 디자인이 들어간 양말을 써보고 싶다는 생각에 체험단을 신청했고 운 좋게 당첨이 되었습니다.
 
