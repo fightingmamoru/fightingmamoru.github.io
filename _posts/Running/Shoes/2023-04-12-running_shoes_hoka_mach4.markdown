@@ -92,29 +92,6 @@ categories: ["Running", "Running Shoes"]
 
 
 
-<p style="text-align: center; padding-top: 20px;">
-	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fowmo9%2Fbtr9GaT4f3d%2Fqj0bbP7D6u4C15KkmJ3Fh0%2Fimg.png" width="80%">
-</p>
-<p style="text-align: center;">
-	<em>[첫 대회 출전 + 하프 도전. 운 좋게 골인하는 순간을 아내가 포착]</em>
-</p>
-
-<p style="text-align: center; padding-top: 20px;">
-	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F6a70Q%2Fbtr9MoqTzQC%2F5mMKffAm0fZs9q1WmOtsl1%2Fimg.png" width="80%">
-</p>
-<p style="text-align: center;">
-	<em>[대회 때는 신발에 이런 형태로 칩을 착용하여 자동으로 기록을 측정]</em>
-</p>
-
-<p style="text-align: center; padding-top: 20px;">
-	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbZqIzt%2Fbtr9AZF0cWc%2FQvwicaOGRdg4nRLlSAlrKk%2Fimg.png" width="80%">
-</p>
-<p style="text-align: center;">
-	<em>[첫 대회의 결과물. 첫 대회 하프 기록은 1:54:29.06]</em>
-</p>
-
-
-
 러닝에 재미를 느끼게 해준 이 신발 덕분에 러닝 마일리지는 점점 늘어갔습니다. 뛰는 거리도 늘어갔고, 페이스도 빨라졌습니다.
 2023년 4월. 이 신발을 신고 첫 대회에도 나갔습니다. 첫 대회, 첫 하프 도전이었습니다. 2023 제주 MBC 평화마라톤 하프 코스에 출전해서,
 무사히 완주했고 목표였던 6:00(1km) 페이스보다 좋은 페이스로 2시간 안쪽으로 골인했구요. 신발을 신는 동안 그리고 현재까지도
