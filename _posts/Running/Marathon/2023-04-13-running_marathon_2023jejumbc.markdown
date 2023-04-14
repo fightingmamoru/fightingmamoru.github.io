@@ -1,12 +1,44 @@
 ---
 layout: post
-title:  "[Running/Shoes] HOKA ONE ONE - Mach 4"
-date:   2023-04-12 12:00:00 +0900
-categories: ["Running", "Running Shoes"]
+title:  "[Running/Marathon] 2023 제주MBC 국제평화마라톤"
+date:   2023-04-13 12:00:00 +0900
+categories: ["Running", "Marathon"]
 ---
 <p style="text-align: center; padding-top: 20px;">
 	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FIXres%2Fbtr9DI4yXEG%2FxUkjA8XGDAmbjnVd9mxZ4k%2Fimg.png" width="50%">
 </p>
+
+
+
+2022년 5월 시작한 다이어트는 미니벨로 버디 라이딩을 매일 한시간씩 하면서 가벼운 유산소 운동으로 시작 됐습니다.
+2022년 7월. 3개월 가량의 시간이 자났을 때 93kg 에서 시작했던 체중은 목표로 했던 75kg 까지 도달했고 목표 달성에 성공을 했습니다.
+체중 감량과 유지는 이 글을 포스팅을 하는 시점인 2023년 4월에도 계속되고 있습니다.
+변화가 있었다면 자전거로만 수행하던 유산소 운동에 이제 러닝이 추가 되었다는 사실입니다.
+
+
+
+<p style="text-align: center; padding-top: 20px;">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcs6twR%2Fbtr9NmzzyvD%2Flwsm6KgsRpL2hE6ALHskW0%2Fimg.png" width="80%">
+</p>
+<p style="text-align: center;">
+	<em>[러닝의 시작. 아디다스 오즈위고]</em>
+</p>
+
+
+
+2022년 7월 목표 체중을 달성 후 루틴화 된 생활 패턴이 이어지고 있었습니다. 감량 목표를 달성한 이후 자전거만 타는 것에 대한 약간의 지루함
+그리고 날씨 변화에 따른 자전거 라이딩이 불가능한 상황이 이어지는 상황이 발생했습니다. 자전거를 탈 수 없을 때 수행 가능한 유산소 운동이 필요했고
+대안은 바로 러닝이었습니다. 하지만 달리기라는 운동은 어린시절 부터 나를 숨차고 힘들게하는 거부감 있는 운동이었습니다.
+거기에 다이어트를 시작하던 시점은 과체중을 넘어선 비만 체중이었기에 러닝에 대한 엄두도 낼 수 없었고, 해야겠다는 생각조차 없었구요.
+
+
+
+여러가지 요인으로 지속적으로 루틴이 깨지는 반복되는 상황이 발생했고, 결국 2022년 9월 러닝을 시작해야겠다는 결심을 하게 되었습니다.
+러닝을 지속할지 알 수가 없는 상황이어서 러닝화 구매는 사치라고 생각되었습니다. 일상화로 편하게 신던 아디다스 오즈위고를 신고 뛰기 시작했습니다.
+로드를 뛰기는 겁도 나고 길도 잘 몰랐기에 집에서 가까운 학교의 트랙을 뛰었습니다. 5km를 시간에 상관없이 뛰기 시작했구요.
+첫 러닝 거리와 페이스는 5km/7:36(1km) 였습니다. 뛰기와 걷기를 번갈아 가며 수행한 첫 러닝이었습니다.
+
+
 
 <p style="text-align: center; padding-top: 20px;">
 	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuwkHY%2Fbtr9DHR5YtU%2FYqRW7zfT7LZIs8QKMSeKBk%2Fimg.png" width="80%">
