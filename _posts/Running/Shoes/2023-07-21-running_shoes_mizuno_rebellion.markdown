@@ -63,10 +63,10 @@ G마켓에서 판매를 하고 있었는데 판매처가 대전신세계 백화�
 
 
 <p style="text-align: center; padding-top: 20px;">
-	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcSOKXY%2Fbtr9Nhd0bns%2FH1l6HbTCJWOwYTKqLzicn0%2Fimg.png" width="80%">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FTuM6P%2Fbtsovu5ejBg%2FNvgieKqCfU8hkuNqThUH71%2Fimg.jpg" width="80%">
 </p>
 <p style="text-align: center;">
-	<em>[200K 정도 주행한 아웃솔. 아주 튼튼하다.]</em>
+	<em>[텅의 윗 부분이 확실히 크고 길다.]</em>
 </p>
 
 
