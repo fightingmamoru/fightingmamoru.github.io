@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Running/Shoes] Reebok - Forever Floatride Energy 2"
-date:   2023-07-21 12:00:00 +0900
+date:   2023-08-24 12:00:00 +0900
 categories: ["Running", "Running Shoes"]
 ---
 <p style="text-align: center; padding-top: 20px;">
