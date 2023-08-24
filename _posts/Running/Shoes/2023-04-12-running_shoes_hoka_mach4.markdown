@@ -84,7 +84,7 @@ categories: ["Running", "Running Shoes"]
 - 기술 스펙
 	- 타입 : 로드
 	- 무게 : 232g (270mm 기준)
-	- 힐드롭 : 5mm
+	- 오프셋 : 5mm (toe-30mm/heel-35mm)
 	- 안정성 : 중립 (Neutral)
 	- 쿠션 : 반발력 (Responsive)
 	- 아웃솔 : EVA

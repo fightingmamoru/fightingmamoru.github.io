@@ -92,7 +92,7 @@ G마켓에서 판매를 하고 있었는데 판매처가 대전신세계 백화�
 - 기술 스펙
 	- 타입 : 로드
 	- 무게 : 243g (270mm 기준)
-	- 힐드롭 : 8mm (Forefoot-30mm/Heel-38mm)
+	- 오프셋 : 8mm (toe-30mm/heel-38mm)
 	- 안정성 : 중립 (Neutral)
 	- 쿠션 : 반발력 (Responsive)
 	- 아웃솔 : G3
