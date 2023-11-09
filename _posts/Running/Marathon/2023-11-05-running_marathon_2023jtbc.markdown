@@ -255,7 +255,7 @@ categories: ["Running", "Marathon"]
 <p style="text-align: center; padding-top: 20px;">
 	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FWVGBr%2FbtszUyhrmkN%2Fwc6iW3XqXAqSccjCvGNuok%2Fimg.jpg" width="90%" style="background-color: white;">
 </p>
-<p style="text-align: center;">안
+<p style="text-align: center;">
 	<em>[최종 기록]</em>
 </p>
 
