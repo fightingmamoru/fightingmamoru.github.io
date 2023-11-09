@@ -244,7 +244,7 @@ categories: ["Running", "Marathon"]
 
 
 <p style="text-align: center; padding-top: 20px;">
-	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fdkocnb%2FbtszUttA3pk%2FIKgNkILy4z0Gdae3lA48JK%2Fimg.jpg" width="90%" style="background-color: white;">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdCb1Zc%2FbtszYHTgdXw%2FyyV3lPPDBrdY7WjO4LCvC0%2Fimg.jpg" width="90%" style="background-color: white;">
 </p>
 <p style="text-align: center;">
 	<em>[완주 인증서]</em>
