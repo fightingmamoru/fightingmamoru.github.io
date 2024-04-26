@@ -61,4 +61,5 @@ plainwhite:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-youtube
 #  - jekyll-feed
