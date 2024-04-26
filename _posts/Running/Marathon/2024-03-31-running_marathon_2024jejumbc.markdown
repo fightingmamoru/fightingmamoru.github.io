@@ -127,7 +127,7 @@ categories: ["Running", "Marathon"]
 
 
 <p style="text-align: center; padding-top: 20px;">
-	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcLsNIU%2FbtsGVLAXgaU%2FMCLiMdFgOmCry4pqCKSq4K%2Fimg.png" style="max-width:80%; height:auto;"
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcLsNIU%2FbtsGVLAXgaU%2FMCLiMdFgOmCry4pqCKSq4K%2Fimg.png" style="max-width:80%; height:auto;"/>
 </p>
 <p style="text-align: center;">
 	<em>[마지막 전력 질주 하는 제제]</em>
