@@ -122,7 +122,11 @@ categories: ["Running", "Marathon"]
 
 
 
-{ % include embed/youtube.html id='WvolgmWSgHQ' % }
+### 제제의 9살인생 첫 마라톤 도전은 Youtube 영상으로 담아 봤습니다! 구독! 좋아요! 부탁드려요~!
+
+
+
+{ % youtube "https://www.youtube.com/watch?v=WvolgmWSgHQ" % }
 
 
 
@@ -132,9 +136,6 @@ categories: ["Running", "Marathon"]
 <p style="text-align: center;">
 	<em>[마지막 전력 질주 하는 제제]</em>
 </p>
-
-
-### 제제의 9살인생 첫 마라톤 도전은 Youtube 영상으로 담아 봤습니다! 구독! 좋아요! 부탁드려요~!
 
 
 
