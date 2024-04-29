@@ -182,7 +182,7 @@ categories: ["Running", "Marathon"]
 
 
 <p style="text-align: center; padding-top: 20px;">
-	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F6fVgX%2FbtsGWur3tdb%2F14n3jK9zEJC4xCwn0Pe2N0%2Fimg.jpg" style="max-width:80%; height:auto;">
+	<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc7rd6K%2FbtsG11pLsw4%2Fjp7KanMsKSFcUNKPWLq3c1%2Fimg.jpg" style="max-width:80%; height:auto;">
 </p>
 <p style="text-align: center;">
 	<em>[제제의 첫 마라톤 완주증]</em>
